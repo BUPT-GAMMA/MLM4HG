@@ -1,0 +1,4126 @@
+dblp,lp,publish
+dblp,lp,was received by
+dblp,nc,2
+yelp,lp,indicate
+dblp,nc,0
+dblp,lp,publish
+pubmed,lp,contain
+yelp,lp,rate
+pubmed,lp,is caused by
+yelp,nc,shopping
+pubmed,lp,contain
+dblp,lp,was received by
+dblp,nc,1
+dblp,nc,1
+pubmed,nc,glandular disease
+dblp,lp,was published in
+dblp,nc,3
+dblp,lp,write
+dblp,nc,2
+yelp,nc,restaurants
+yelp,nc,automotive
+dblp,nc,2
+yelp,lp,no
+dblp,nc,1
+yelp,nc,event planning & services
+dblp,nc,2
+yelp,nc,bars
+yelp,nc,shopping
+yelp,nc,restaurants
+dblp,nc,2
+yelp,lp,described with
+yelp,nc,bars
+dblp,lp,write
+dblp,nc,3
+dblp,lp,write
+dblp,lp,write
+pubmed,lp,is caused by
+yelp,nc,bars
+pubmed,lp,contain
+dblp,nc,0
+yelp,lp,located in
+dblp,lp,write
+yelp,nc,food
+yelp,nc,sandwiches
+yelp,nc,automotive
+dblp,nc,3
+yelp,lp,located in
+yelp,lp,described with
+yelp,lp,rate
+dblp,lp,was received by
+dblp,lp,was published in
+pubmed,lp,with
+yelp,lp,score
+dblp,nc,2
+dblp,lp,write
+dblp,nc,3
+dblp,lp,receive
+dblp,lp,no
+dblp,lp,write
+yelp,lp,described with
+dblp,lp,write
+yelp,lp,described with
+yelp,lp,score
+dblp,lp,was received by
+dblp,lp,publish
+dblp,lp,no
+dblp,nc,0
+pubmed,lp,contain
+dblp,lp,receive
+yelp,lp,located in
+dblp,lp,was received by
+yelp,lp,described with
+dblp,nc,2
+dblp,lp,no
+dblp,lp,was written by
+dblp,nc,2
+pubmed,lp,in
+pubmed,lp,no
+yelp,lp,is associated with
+dblp,lp,was written by
+yelp,lp,described with
+yelp,nc,pizza
+dblp,lp,receive
+dblp,nc,2
+yelp,nc,food
+yelp,lp,described with
+dblp,lp,write
+yelp,lp,described with
+dblp,nc,1
+dblp,lp,was published in
+yelp,lp,score
+dblp,lp,no
+dblp,lp,publish
+dblp,lp,was written by
+dblp,lp,write
+yelp,lp,no
+yelp,nc,bars
+dblp,nc,3
+dblp,nc,2
+yelp,lp,indicate
+dblp,nc,3
+dblp,nc,2
+dblp,nc,1
+dblp,lp,publish
+dblp,nc,2
+yelp,nc,beauty & spas
+dblp,nc,0
+dblp,nc,2
+dblp,lp,no
+yelp,nc,restaurants
+yelp,nc,sandwiches
+dblp,nc,2
+dblp,lp,was received by
+dblp,lp,write
+dblp,lp,receive
+pubmed,lp,with
+yelp,nc,restaurants
+yelp,nc,food
+pubmed,lp,is caused by
+pubmed,nc,cancer
+dblp,lp,was published in
+dblp,lp,receive
+dblp,nc,1
+pubmed,nc,inflammatory disease
+dblp,nc,0
+dblp,nc,0
+yelp,lp,described with
+dblp,nc,1
+dblp,nc,0
+pubmed,lp,contain
+yelp,lp,no
+yelp,nc,restaurants
+pubmed,nc,inflammatory disease
+yelp,lp,is associated with
+dblp,lp,no
+yelp,nc,sandwiches
+dblp,lp,was received by
+yelp,lp,score
+dblp,lp,receive
+yelp,lp,located in
+dblp,lp,publish
+yelp,lp,located in
+dblp,nc,0
+dblp,lp,write
+dblp,nc,1
+yelp,nc,bars
+pubmed,lp,contain
+dblp,nc,2
+dblp,lp,was written by
+yelp,lp,rate
+dblp,lp,no
+yelp,lp,rate
+yelp,nc,restaurants
+pubmed,lp,in
+dblp,lp,no
+dblp,lp,receive
+yelp,nc,shopping
+dblp,nc,2
+yelp,nc,beauty & spas
+dblp,nc,2
+yelp,lp,rate
+dblp,nc,2
+yelp,lp,located in
+dblp,lp,was received by
+dblp,lp,write
+dblp,nc,2
+dblp,lp,publish
+dblp,nc,2
+yelp,lp,is associated with
+yelp,nc,Italian
+yelp,nc,beauty & spas
+dblp,nc,3
+dblp,lp,receive
+pubmed,lp,in
+dblp,nc,0
+yelp,nc,restaurants
+yelp,nc,restaurants
+yelp,nc,breakfast & brunch
+dblp,lp,was published in
+yelp,nc,restaurants
+dblp,lp,receive
+yelp,nc,shopping
+dblp,lp,write
+yelp,lp,is associated with
+dblp,lp,was written by
+yelp,nc,shopping
+yelp,nc,restaurants
+dblp,nc,0
+pubmed,lp,in
+dblp,lp,was published in
+dblp,lp,was received by
+dblp,nc,1
+dblp,nc,3
+dblp,lp,was written by
+yelp,lp,is associated with
+dblp,nc,0
+dblp,lp,was published in
+dblp,lp,receive
+yelp,nc,event planning & services
+yelp,lp,score
+yelp,nc,sandwiches
+yelp,lp,located in
+dblp,lp,publish
+yelp,nc,automotive
+pubmed,lp,in
+yelp,nc,shopping
+dblp,lp,was received by
+yelp,lp,indicate
+dblp,lp,publish
+dblp,nc,0
+dblp,lp,no
+yelp,lp,indicate
+dblp,lp,no
+dblp,lp,receive
+yelp,nc,event planning & services
+dblp,lp,was received by
+yelp,lp,located in
+pubmed,lp,is caused by
+dblp,lp,write
+pubmed,lp,in
+dblp,nc,3
+pubmed,lp,contain
+yelp,lp,no
+yelp,lp,score
+dblp,lp,no
+yelp,nc,restaurants
+yelp,lp,rate
+dblp,lp,write
+yelp,lp,no
+dblp,nc,3
+dblp,lp,was published in
+dblp,lp,was received by
+yelp,lp,rate
+yelp,nc,Italian
+yelp,lp,is associated with
+yelp,nc,beauty & spas
+dblp,lp,no
+yelp,lp,no
+yelp,lp,indicate
+dblp,lp,no
+yelp,lp,rate
+yelp,nc,food
+pubmed,lp,contain
+dblp,nc,3
+pubmed,nc,skin disease
+dblp,nc,1
+dblp,lp,publish
+pubmed,lp,in
+dblp,lp,no
+dblp,nc,2
+yelp,lp,indicate
+dblp,nc,0
+pubmed,lp,in
+yelp,nc,shopping
+dblp,nc,0
+yelp,lp,indicate
+pubmed,lp,is caused by
+dblp,nc,0
+yelp,nc,food
+yelp,lp,located in
+pubmed,lp,is caused by
+dblp,lp,was received by
+pubmed,nc,nervous disorder
+dblp,lp,publish
+yelp,nc,food
+yelp,nc,Italian
+pubmed,lp,in
+dblp,nc,1
+yelp,nc,sandwiches
+yelp,lp,is associated with
+dblp,nc,2
+yelp,nc,food
+yelp,lp,score
+yelp,nc,restaurants
+yelp,nc,food
+yelp,nc,sandwiches
+pubmed,lp,in
+dblp,lp,publish
+yelp,lp,no
+pubmed,lp,in
+yelp,nc,bars
+yelp,nc,restaurants
+yelp,lp,score
+dblp,nc,3
+dblp,lp,publish
+dblp,lp,receive
+yelp,lp,described with
+yelp,nc,Italian
+pubmed,lp,is caused by
+dblp,nc,1
+dblp,lp,no
+yelp,lp,score
+dblp,nc,3
+dblp,nc,2
+yelp,nc,shopping
+pubmed,lp,with
+pubmed,lp,contain
+yelp,nc,shopping
+dblp,nc,0
+dblp,lp,was written by
+pubmed,lp,in
+dblp,nc,3
+yelp,nc,restaurants
+dblp,lp,receive
+yelp,lp,described with
+dblp,nc,2
+yelp,lp,rate
+yelp,nc,bars
+dblp,lp,no
+dblp,lp,receive
+pubmed,lp,in
+yelp,nc,shopping
+dblp,lp,was written by
+yelp,lp,score
+dblp,lp,no
+dblp,nc,0
+dblp,nc,0
+dblp,lp,publish
+dblp,nc,0
+dblp,nc,2
+yelp,lp,described with
+dblp,nc,2
+dblp,nc,2
+yelp,lp,score
+dblp,nc,3
+yelp,nc,restaurants
+dblp,nc,2
+yelp,lp,indicate
+pubmed,nc,glandular disease
+dblp,nc,2
+dblp,nc,3
+yelp,lp,rate
+pubmed,lp,in
+yelp,lp,no
+yelp,nc,restaurants
+dblp,nc,2
+yelp,nc,restaurants
+yelp,lp,located in
+pubmed,lp,in
+dblp,lp,no
+yelp,nc,restaurants
+dblp,lp,was published in
+dblp,lp,publish
+yelp,lp,located in
+dblp,lp,no
+yelp,nc,Italian
+yelp,nc,beauty & spas
+dblp,lp,was written by
+dblp,nc,2
+dblp,nc,0
+pubmed,lp,in
+yelp,nc,automotive
+dblp,nc,0
+dblp,nc,1
+dblp,lp,was published in
+dblp,nc,3
+yelp,nc,shopping
+dblp,lp,was published in
+yelp,nc,bars
+yelp,nc,pizza
+yelp,lp,score
+yelp,nc,event planning & services
+pubmed,lp,contain
+yelp,nc,beauty & spas
+dblp,lp,receive
+dblp,lp,no
+dblp,lp,publish
+dblp,lp,publish
+yelp,lp,rate
+yelp,nc,food
+yelp,lp,described with
+yelp,lp,described with
+dblp,lp,receive
+pubmed,lp,with
+dblp,nc,2
+pubmed,lp,no
+dblp,lp,was published in
+dblp,lp,publish
+pubmed,nc,glandular disease
+yelp,nc,food
+dblp,lp,publish
+dblp,nc,2
+yelp,lp,rate
+yelp,lp,is associated with
+dblp,nc,0
+dblp,lp,write
+dblp,lp,no
+yelp,nc,shopping
+dblp,lp,write
+dblp,lp,publish
+yelp,lp,indicate
+dblp,lp,no
+yelp,nc,beauty & spas
+dblp,lp,was published in
+dblp,lp,publish
+pubmed,lp,contain
+dblp,lp,was published in
+yelp,nc,shopping
+pubmed,lp,with
+dblp,lp,publish
+yelp,lp,no
+yelp,nc,beauty & spas
+yelp,lp,described with
+yelp,lp,rate
+yelp,lp,no
+dblp,lp,receive
+yelp,nc,shopping
+yelp,lp,located in
+dblp,lp,receive
+dblp,lp,was written by
+dblp,lp,was received by
+dblp,nc,0
+dblp,nc,1
+pubmed,lp,no
+yelp,nc,event planning & services
+pubmed,lp,is caused by
+yelp,lp,rate
+dblp,lp,was published in
+dblp,nc,1
+yelp,lp,score
+yelp,nc,Italian
+dblp,nc,0
+dblp,lp,no
+pubmed,lp,in
+yelp,lp,located in
+dblp,lp,receive
+yelp,nc,food
+yelp,lp,located in
+pubmed,lp,contain
+dblp,nc,0
+yelp,nc,event planning & services
+pubmed,lp,is caused by
+yelp,nc,Italian
+dblp,lp,publish
+dblp,lp,was written by
+pubmed,lp,in
+pubmed,lp,in
+yelp,lp,is associated with
+dblp,lp,receive
+yelp,nc,beauty & spas
+yelp,nc,breakfast & brunch
+dblp,nc,0
+yelp,nc,automotive
+yelp,nc,food
+yelp,lp,is associated with
+dblp,lp,publish
+dblp,lp,was published in
+pubmed,lp,in
+yelp,lp,located in
+yelp,lp,is associated with
+pubmed,lp,in
+pubmed,lp,contain
+yelp,nc,automotive
+dblp,nc,0
+yelp,nc,pizza
+yelp,nc,Italian
+dblp,lp,no
+dblp,lp,no
+yelp,nc,sandwiches
+dblp,lp,no
+dblp,lp,no
+yelp,nc,shopping
+yelp,lp,rate
+dblp,lp,no
+yelp,lp,rate
+dblp,lp,receive
+yelp,lp,described with
+yelp,nc,Italian
+dblp,lp,was written by
+dblp,lp,was published in
+pubmed,lp,no
+dblp,nc,2
+yelp,nc,beauty & spas
+yelp,lp,indicate
+yelp,nc,sandwiches
+dblp,nc,1
+yelp,lp,described with
+pubmed,lp,with
+pubmed,lp,causing
+yelp,lp,score
+pubmed,lp,in
+dblp,nc,1
+pubmed,nc,skin disease
+pubmed,lp,causing
+yelp,lp,is associated with
+dblp,lp,was received by
+dblp,lp,was published in
+dblp,lp,publish
+yelp,nc,beauty & spas
+yelp,nc,beauty & spas
+yelp,nc,food
+pubmed,lp,is caused by
+yelp,lp,score
+pubmed,lp,with
+dblp,lp,receive
+pubmed,lp,in
+dblp,lp,no
+yelp,lp,score
+dblp,nc,3
+dblp,lp,was received by
+dblp,lp,receive
+dblp,lp,was received by
+dblp,nc,2
+yelp,lp,described with
+yelp,lp,rate
+yelp,lp,located in
+pubmed,lp,no
+dblp,nc,2
+dblp,nc,0
+dblp,nc,2
+yelp,nc,restaurants
+dblp,lp,write
+yelp,nc,food
+yelp,nc,beauty & spas
+pubmed,lp,causing
+pubmed,lp,with
+dblp,nc,1
+yelp,lp,located in
+yelp,nc,beauty & spas
+dblp,nc,0
+dblp,nc,2
+yelp,lp,rate
+yelp,lp,described with
+dblp,nc,0
+pubmed,lp,with
+dblp,nc,2
+yelp,lp,is associated with
+dblp,lp,no
+dblp,lp,was received by
+dblp,lp,was written by
+dblp,nc,1
+yelp,nc,food
+dblp,lp,publish
+pubmed,nc,nervous disorder
+yelp,lp,is associated with
+yelp,nc,bars
+yelp,lp,located in
+pubmed,lp,no
+pubmed,lp,in
+yelp,lp,indicate
+dblp,nc,1
+dblp,lp,was received by
+pubmed,nc,cardiovascular disease
+dblp,nc,1
+pubmed,lp,contain
+yelp,lp,rate
+dblp,nc,3
+yelp,lp,is associated with
+dblp,nc,2
+dblp,nc,3
+yelp,lp,score
+dblp,nc,2
+dblp,lp,no
+dblp,nc,0
+pubmed,lp,in
+dblp,nc,1
+dblp,lp,was received by
+yelp,nc,Italian
+dblp,nc,2
+yelp,lp,located in
+yelp,nc,shopping
+dblp,lp,publish
+yelp,nc,automotive
+dblp,nc,2
+yelp,lp,rate
+dblp,nc,0
+pubmed,lp,in
+pubmed,nc,communicable disease
+dblp,lp,write
+pubmed,lp,is caused by
+yelp,nc,bars
+dblp,lp,was written by
+dblp,nc,0
+pubmed,lp,no
+yelp,lp,described with
+yelp,nc,food
+dblp,nc,3
+pubmed,nc,communicable disease
+dblp,lp,publish
+yelp,lp,score
+dblp,lp,write
+yelp,nc,restaurants
+yelp,nc,sandwiches
+dblp,nc,2
+dblp,nc,1
+yelp,nc,shopping
+dblp,lp,was published in
+yelp,nc,restaurants
+yelp,nc,food
+yelp,lp,described with
+pubmed,nc,inflammatory disease
+dblp,lp,was written by
+yelp,lp,score
+dblp,nc,0
+yelp,lp,no
+dblp,nc,2
+yelp,nc,beauty & spas
+dblp,lp,was published in
+dblp,nc,0
+yelp,lp,no
+yelp,lp,located in
+yelp,lp,is associated with
+dblp,nc,0
+dblp,lp,was received by
+dblp,nc,2
+dblp,nc,0
+dblp,nc,3
+dblp,lp,receive
+dblp,lp,was written by
+dblp,lp,was published in
+pubmed,lp,in
+dblp,lp,publish
+dblp,nc,3
+dblp,nc,0
+pubmed,lp,contain
+yelp,lp,rate
+yelp,lp,located in
+yelp,nc,food
+yelp,lp,is associated with
+yelp,lp,is associated with
+yelp,nc,restaurants
+dblp,nc,2
+dblp,lp,write
+dblp,lp,was published in
+pubmed,lp,in
+dblp,lp,no
+pubmed,lp,causing
+dblp,lp,was written by
+yelp,nc,restaurants
+pubmed,lp,in
+yelp,nc,beauty & spas
+dblp,nc,1
+yelp,lp,is associated with
+dblp,lp,no
+pubmed,lp,in
+dblp,lp,was written by
+dblp,lp,publish
+dblp,lp,publish
+pubmed,lp,is caused by
+dblp,lp,was received by
+yelp,nc,bars
+pubmed,lp,in
+yelp,lp,rate
+dblp,nc,2
+dblp,nc,3
+dblp,lp,was published in
+dblp,nc,3
+dblp,nc,1
+pubmed,lp,contain
+dblp,lp,was received by
+dblp,nc,2
+dblp,lp,write
+yelp,lp,located in
+dblp,lp,was received by
+yelp,nc,beauty & spas
+dblp,lp,no
+yelp,lp,is associated with
+dblp,lp,publish
+dblp,nc,3
+yelp,lp,is associated with
+dblp,lp,write
+yelp,nc,restaurants
+pubmed,lp,in
+pubmed,lp,contain
+dblp,nc,0
+dblp,nc,3
+yelp,lp,located in
+dblp,nc,2
+dblp,lp,no
+pubmed,lp,in
+pubmed,nc,skin disease
+dblp,lp,publish
+yelp,nc,bars
+dblp,nc,1
+yelp,lp,rate
+dblp,nc,3
+yelp,lp,is associated with
+pubmed,lp,with
+dblp,nc,2
+yelp,nc,restaurants
+pubmed,lp,in
+yelp,nc,automotive
+dblp,nc,1
+yelp,lp,described with
+yelp,nc,shopping
+dblp,nc,0
+pubmed,lp,in
+yelp,nc,food
+dblp,lp,publish
+yelp,nc,automotive
+yelp,lp,rate
+pubmed,nc,pycnosis
+dblp,nc,3
+dblp,lp,receive
+dblp,nc,0
+dblp,lp,receive
+dblp,nc,0
+yelp,nc,food
+dblp,lp,was written by
+yelp,lp,no
+dblp,nc,0
+yelp,nc,shopping
+dblp,nc,0
+dblp,lp,was published in
+yelp,nc,event planning & services
+yelp,lp,rate
+yelp,nc,automotive
+pubmed,nc,skin disease
+yelp,nc,restaurants
+pubmed,lp,in
+dblp,lp,receive
+yelp,lp,rate
+pubmed,lp,with
+yelp,lp,indicate
+yelp,lp,rate
+pubmed,nc,pycnosis
+yelp,nc,sandwiches
+pubmed,lp,in
+dblp,lp,no
+dblp,lp,receive
+dblp,lp,was received by
+pubmed,lp,with
+dblp,nc,2
+dblp,nc,2
+dblp,nc,1
+yelp,nc,restaurants
+yelp,nc,shopping
+dblp,nc,0
+yelp,nc,restaurants
+pubmed,lp,with
+dblp,nc,3
+yelp,lp,indicate
+yelp,lp,score
+dblp,nc,3
+yelp,nc,sandwiches
+yelp,lp,is associated with
+dblp,nc,0
+yelp,lp,described with
+dblp,lp,receive
+pubmed,nc,skin disease
+dblp,lp,receive
+yelp,nc,restaurants
+yelp,lp,is associated with
+pubmed,lp,contain
+yelp,nc,food
+dblp,nc,0
+yelp,nc,shopping
+dblp,nc,3
+dblp,nc,3
+yelp,lp,indicate
+dblp,nc,3
+yelp,nc,Italian
+pubmed,lp,causing
+dblp,lp,was written by
+yelp,nc,restaurants
+dblp,nc,0
+yelp,nc,event planning & services
+pubmed,lp,contain
+yelp,nc,automotive
+dblp,lp,was published in
+dblp,lp,publish
+dblp,lp,no
+yelp,nc,shopping
+dblp,nc,0
+yelp,nc,bars
+yelp,nc,restaurants
+pubmed,lp,causing
+pubmed,lp,with
+pubmed,lp,in
+dblp,nc,1
+yelp,nc,shopping
+pubmed,lp,in
+dblp,nc,1
+pubmed,lp,in
+dblp,nc,1
+dblp,nc,3
+dblp,lp,receive
+yelp,lp,rate
+pubmed,lp,in
+dblp,lp,publish
+pubmed,lp,is caused by
+dblp,lp,was published in
+yelp,lp,indicate
+yelp,lp,described with
+dblp,lp,publish
+dblp,nc,2
+dblp,lp,no
+pubmed,lp,with
+dblp,lp,no
+pubmed,lp,contain
+yelp,nc,beauty & spas
+yelp,lp,no
+pubmed,lp,in
+yelp,lp,score
+dblp,lp,write
+pubmed,lp,in
+yelp,lp,rate
+dblp,lp,was received by
+dblp,nc,2
+yelp,lp,no
+yelp,lp,described with
+dblp,nc,2
+pubmed,lp,with
+yelp,lp,described with
+yelp,lp,described with
+yelp,lp,is associated with
+dblp,nc,0
+yelp,lp,located in
+yelp,nc,food
+dblp,nc,3
+dblp,nc,0
+yelp,nc,food
+yelp,nc,restaurants
+dblp,nc,0
+dblp,lp,no
+dblp,lp,write
+dblp,lp,write
+dblp,nc,0
+pubmed,lp,contain
+yelp,nc,bars
+pubmed,lp,with
+dblp,lp,publish
+dblp,lp,write
+dblp,lp,was written by
+dblp,lp,write
+dblp,lp,receive
+dblp,nc,3
+dblp,lp,write
+dblp,lp,receive
+dblp,nc,0
+dblp,nc,3
+dblp,lp,write
+yelp,lp,score
+yelp,nc,restaurants
+yelp,lp,described with
+yelp,nc,shopping
+yelp,nc,shopping
+yelp,nc,Italian
+yelp,nc,food
+dblp,nc,1
+yelp,lp,indicate
+dblp,lp,publish
+yelp,lp,is associated with
+yelp,nc,Italian
+yelp,lp,indicate
+pubmed,lp,contain
+pubmed,lp,in
+dblp,lp,was written by
+yelp,lp,indicate
+dblp,nc,1
+dblp,lp,write
+dblp,lp,write
+yelp,nc,beauty & spas
+pubmed,nc,pycnosis
+yelp,nc,restaurants
+yelp,lp,rate
+pubmed,lp,contain
+pubmed,lp,in
+dblp,lp,write
+pubmed,nc,nervous disorder
+dblp,lp,receive
+yelp,nc,automotive
+yelp,lp,indicate
+pubmed,lp,in
+pubmed,nc,pycnosis
+pubmed,lp,causing
+dblp,nc,1
+yelp,lp,score
+dblp,nc,1
+yelp,nc,food
+pubmed,lp,with
+pubmed,lp,in
+pubmed,lp,with
+pubmed,lp,contain
+pubmed,lp,in
+dblp,nc,0
+yelp,lp,located in
+dblp,nc,1
+yelp,nc,restaurants
+yelp,nc,restaurants
+yelp,lp,located in
+pubmed,lp,in
+dblp,nc,0
+dblp,nc,0
+yelp,lp,indicate
+dblp,nc,2
+yelp,nc,beauty & spas
+yelp,nc,food
+dblp,nc,0
+yelp,nc,breakfast & brunch
+pubmed,lp,contain
+pubmed,lp,with
+dblp,lp,no
+yelp,lp,score
+yelp,lp,score
+dblp,nc,1
+dblp,nc,0
+pubmed,nc,inflammatory disease
+yelp,lp,described with
+dblp,nc,3
+dblp,lp,was written by
+dblp,nc,2
+yelp,lp,described with
+dblp,nc,2
+pubmed,lp,in
+dblp,lp,publish
+yelp,nc,food
+yelp,nc,breakfast & brunch
+dblp,lp,was received by
+yelp,lp,score
+yelp,nc,shopping
+dblp,lp,receive
+dblp,lp,receive
+dblp,lp,was written by
+yelp,lp,rate
+dblp,nc,0
+dblp,lp,was published in
+yelp,nc,restaurants
+dblp,nc,0
+dblp,nc,0
+pubmed,lp,in
+dblp,nc,0
+yelp,nc,shopping
+dblp,lp,receive
+dblp,lp,receive
+yelp,nc,restaurants
+dblp,lp,receive
+dblp,lp,write
+pubmed,lp,contain
+yelp,lp,is associated with
+dblp,nc,3
+dblp,lp,was written by
+dblp,nc,2
+pubmed,lp,contain
+dblp,lp,no
+dblp,nc,1
+dblp,lp,was written by
+yelp,nc,sandwiches
+dblp,nc,0
+dblp,lp,receive
+dblp,nc,1
+yelp,lp,no
+dblp,lp,was received by
+pubmed,lp,with
+pubmed,lp,in
+dblp,lp,write
+pubmed,lp,in
+yelp,nc,shopping
+yelp,nc,event planning & services
+pubmed,lp,in
+yelp,nc,restaurants
+yelp,lp,rate
+yelp,nc,sandwiches
+dblp,lp,was published in
+pubmed,nc,inflammatory disease
+dblp,lp,was written by
+yelp,nc,food
+yelp,nc,automotive
+yelp,nc,automotive
+yelp,lp,indicate
+pubmed,lp,no
+dblp,lp,write
+dblp,nc,0
+yelp,lp,score
+yelp,lp,described with
+pubmed,lp,contain
+pubmed,lp,contain
+dblp,nc,0
+dblp,lp,publish
+dblp,nc,0
+pubmed,lp,with
+dblp,nc,0
+yelp,nc,restaurants
+yelp,lp,located in
+yelp,nc,bars
+yelp,nc,restaurants
+yelp,lp,no
+dblp,nc,2
+dblp,lp,receive
+dblp,lp,was published in
+dblp,nc,3
+pubmed,nc,pycnosis
+pubmed,lp,in
+yelp,nc,restaurants
+dblp,lp,was written by
+pubmed,lp,with
+yelp,nc,restaurants
+dblp,nc,3
+yelp,lp,is associated with
+pubmed,lp,with
+dblp,lp,write
+dblp,nc,2
+pubmed,lp,in
+yelp,nc,shopping
+pubmed,lp,with
+dblp,lp,was received by
+yelp,lp,is associated with
+yelp,lp,is associated with
+dblp,nc,2
+yelp,lp,score
+yelp,nc,restaurants
+dblp,lp,write
+dblp,nc,0
+dblp,lp,receive
+pubmed,lp,with
+pubmed,lp,in
+yelp,nc,restaurants
+yelp,nc,food
+dblp,lp,was published in
+yelp,lp,located in
+yelp,lp,no
+pubmed,lp,in
+yelp,nc,breakfast & brunch
+yelp,nc,restaurants
+dblp,lp,was published in
+yelp,nc,shopping
+yelp,lp,located in
+dblp,nc,2
+dblp,lp,no
+yelp,nc,food
+dblp,lp,was received by
+yelp,lp,described with
+yelp,lp,rate
+dblp,nc,1
+dblp,nc,2
+dblp,lp,was published in
+yelp,nc,beauty & spas
+dblp,nc,2
+yelp,nc,restaurants
+dblp,nc,0
+yelp,lp,is associated with
+dblp,lp,was received by
+dblp,nc,1
+dblp,lp,write
+dblp,nc,0
+dblp,nc,1
+dblp,lp,was published in
+dblp,nc,2
+dblp,lp,was written by
+yelp,lp,is associated with
+yelp,nc,restaurants
+dblp,nc,2
+yelp,lp,score
+yelp,nc,restaurants
+yelp,lp,described with
+yelp,nc,bars
+dblp,nc,0
+yelp,nc,restaurants
+pubmed,lp,in
+dblp,nc,0
+pubmed,lp,contain
+yelp,lp,described with
+pubmed,lp,contain
+pubmed,lp,contain
+dblp,lp,no
+pubmed,lp,in
+dblp,lp,was written by
+pubmed,lp,contain
+yelp,nc,restaurants
+pubmed,lp,causing
+dblp,nc,0
+dblp,lp,was written by
+dblp,lp,receive
+dblp,lp,receive
+dblp,lp,publish
+yelp,nc,shopping
+yelp,lp,is associated with
+yelp,lp,rate
+dblp,nc,3
+yelp,lp,score
+dblp,nc,0
+pubmed,lp,in
+yelp,nc,sandwiches
+pubmed,lp,in
+yelp,nc,breakfast & brunch
+yelp,lp,score
+yelp,lp,no
+yelp,nc,bars
+dblp,nc,3
+pubmed,lp,with
+dblp,lp,write
+pubmed,lp,is caused by
+dblp,nc,0
+dblp,nc,2
+yelp,lp,score
+pubmed,lp,with
+pubmed,lp,in
+yelp,lp,no
+dblp,lp,write
+dblp,lp,receive
+dblp,nc,2
+dblp,nc,0
+yelp,lp,no
+pubmed,lp,contain
+yelp,nc,beauty & spas
+pubmed,lp,contain
+dblp,lp,publish
+pubmed,lp,in
+pubmed,nc,nervous disorder
+dblp,nc,0
+dblp,nc,2
+pubmed,lp,with
+yelp,nc,Italian
+dblp,lp,publish
+yelp,lp,no
+dblp,nc,3
+yelp,lp,rate
+yelp,lp,located in
+pubmed,nc,skin disease
+yelp,lp,rate
+dblp,lp,was received by
+dblp,nc,0
+dblp,lp,no
+yelp,nc,restaurants
+dblp,nc,3
+yelp,lp,located in
+pubmed,lp,with
+yelp,lp,indicate
+dblp,nc,2
+dblp,nc,2
+dblp,nc,0
+yelp,nc,shopping
+yelp,nc,restaurants
+pubmed,lp,contain
+dblp,nc,2
+dblp,nc,1
+yelp,lp,is associated with
+yelp,lp,described with
+dblp,lp,write
+dblp,lp,was written by
+yelp,lp,indicate
+dblp,nc,2
+yelp,nc,Italian
+dblp,nc,1
+yelp,lp,indicate
+yelp,nc,restaurants
+dblp,nc,2
+dblp,nc,2
+dblp,nc,0
+yelp,lp,is associated with
+pubmed,lp,in
+yelp,nc,bars
+dblp,lp,was received by
+dblp,lp,was published in
+yelp,lp,no
+yelp,lp,is associated with
+yelp,lp,is associated with
+dblp,nc,1
+pubmed,lp,is caused by
+yelp,lp,score
+yelp,nc,bars
+dblp,lp,was written by
+yelp,nc,restaurants
+pubmed,lp,in
+yelp,lp,located in
+yelp,lp,located in
+dblp,lp,was written by
+yelp,nc,Italian
+yelp,nc,shopping
+yelp,lp,located in
+yelp,lp,described with
+yelp,nc,shopping
+dblp,nc,3
+dblp,nc,2
+dblp,nc,2
+pubmed,lp,contain
+dblp,lp,publish
+yelp,lp,described with
+dblp,lp,receive
+dblp,lp,was published in
+yelp,lp,described with
+yelp,lp,is associated with
+pubmed,lp,in
+dblp,lp,was received by
+yelp,lp,score
+yelp,nc,bars
+yelp,lp,located in
+dblp,nc,3
+pubmed,lp,causing
+yelp,lp,described with
+dblp,lp,no
+dblp,nc,3
+pubmed,lp,in
+yelp,nc,restaurants
+yelp,nc,sandwiches
+dblp,lp,was written by
+yelp,lp,located in
+dblp,lp,receive
+pubmed,lp,causing
+yelp,nc,pizza
+yelp,nc,restaurants
+yelp,nc,restaurants
+dblp,lp,was received by
+dblp,lp,write
+pubmed,lp,causing
+yelp,nc,Italian
+yelp,lp,is associated with
+dblp,nc,1
+pubmed,nc,glandular disease
+dblp,nc,2
+yelp,nc,restaurants
+yelp,lp,rate
+dblp,lp,write
+yelp,nc,automotive
+pubmed,lp,with
+yelp,lp,score
+yelp,nc,automotive
+pubmed,lp,contain
+yelp,lp,described with
+yelp,nc,automotive
+yelp,nc,bars
+yelp,nc,food
+dblp,lp,write
+dblp,nc,2
+pubmed,lp,no
+yelp,nc,event planning & services
+yelp,nc,beauty & spas
+pubmed,nc,cardiovascular disease
+yelp,lp,is associated with
+dblp,nc,0
+yelp,lp,is associated with
+yelp,lp,described with
+dblp,nc,1
+yelp,nc,automotive
+yelp,lp,no
+dblp,lp,receive
+dblp,nc,3
+pubmed,lp,in
+yelp,nc,restaurants
+yelp,lp,described with
+dblp,nc,0
+yelp,nc,beauty & spas
+yelp,nc,food
+dblp,nc,1
+pubmed,lp,causing
+pubmed,lp,in
+dblp,lp,was published in
+yelp,lp,indicate
+pubmed,lp,in
+dblp,nc,3
+dblp,nc,0
+yelp,lp,is associated with
+yelp,nc,food
+yelp,nc,restaurants
+pubmed,lp,with
+pubmed,lp,causing
+dblp,lp,no
+dblp,nc,3
+pubmed,lp,is caused by
+dblp,nc,0
+yelp,nc,shopping
+yelp,nc,beauty & spas
+yelp,nc,restaurants
+yelp,lp,described with
+dblp,nc,0
+yelp,lp,indicate
+yelp,lp,described with
+yelp,nc,restaurants
+dblp,lp,receive
+yelp,nc,event planning & services
+dblp,nc,1
+dblp,nc,2
+dblp,lp,was published in
+yelp,nc,automotive
+dblp,nc,1
+yelp,nc,bars
+yelp,nc,restaurants
+dblp,lp,write
+dblp,nc,0
+pubmed,lp,contain
+dblp,lp,receive
+yelp,nc,shopping
+dblp,lp,was received by
+yelp,nc,beauty & spas
+dblp,nc,3
+pubmed,lp,with
+dblp,nc,0
+yelp,nc,restaurants
+pubmed,lp,with
+dblp,lp,write
+yelp,nc,shopping
+dblp,lp,was written by
+yelp,lp,rate
+yelp,lp,score
+yelp,nc,beauty & spas
+dblp,nc,1
+yelp,nc,restaurants
+dblp,nc,0
+dblp,nc,2
+dblp,lp,receive
+dblp,lp,publish
+yelp,nc,shopping
+yelp,nc,restaurants
+yelp,lp,located in
+pubmed,lp,with
+dblp,nc,0
+dblp,lp,no
+yelp,nc,restaurants
+yelp,lp,score
+dblp,lp,write
+dblp,lp,write
+dblp,lp,receive
+yelp,lp,located in
+yelp,nc,shopping
+dblp,lp,was written by
+dblp,lp,was received by
+yelp,lp,described with
+yelp,lp,is associated with
+yelp,lp,indicate
+dblp,lp,was published in
+yelp,nc,food
+dblp,lp,no
+pubmed,lp,contain
+yelp,nc,sandwiches
+pubmed,nc,pycnosis
+dblp,nc,1
+yelp,lp,score
+pubmed,nc,glandular disease
+pubmed,lp,no
+pubmed,lp,is caused by
+dblp,lp,was published in
+dblp,lp,publish
+pubmed,lp,in
+pubmed,lp,in
+dblp,lp,was written by
+dblp,lp,publish
+yelp,nc,pizza
+dblp,nc,1
+dblp,nc,3
+yelp,nc,automotive
+pubmed,lp,contain
+yelp,nc,event planning & services
+yelp,lp,indicate
+dblp,nc,2
+pubmed,lp,with
+dblp,nc,2
+yelp,nc,food
+yelp,nc,sandwiches
+pubmed,lp,with
+dblp,nc,1
+dblp,nc,0
+dblp,lp,receive
+pubmed,lp,contain
+pubmed,lp,in
+dblp,nc,2
+dblp,nc,0
+dblp,nc,1
+yelp,lp,located in
+dblp,lp,was received by
+dblp,nc,2
+dblp,lp,write
+pubmed,nc,glandular disease
+pubmed,lp,contain
+dblp,nc,1
+yelp,lp,no
+dblp,lp,no
+dblp,lp,was received by
+yelp,nc,restaurants
+pubmed,lp,with
+yelp,nc,restaurants
+dblp,nc,2
+dblp,nc,2
+pubmed,lp,contain
+yelp,lp,is associated with
+dblp,lp,was published in
+yelp,nc,event planning & services
+dblp,nc,2
+dblp,lp,receive
+dblp,nc,3
+dblp,nc,3
+yelp,nc,food
+dblp,lp,no
+dblp,lp,publish
+dblp,lp,was received by
+pubmed,lp,in
+yelp,nc,sandwiches
+yelp,nc,bars
+dblp,nc,0
+pubmed,lp,with
+yelp,lp,is associated with
+dblp,nc,3
+dblp,nc,2
+yelp,nc,bars
+yelp,lp,indicate
+yelp,nc,shopping
+dblp,nc,0
+pubmed,lp,causing
+dblp,lp,receive
+yelp,nc,restaurants
+dblp,nc,3
+dblp,nc,2
+dblp,nc,0
+dblp,nc,1
+dblp,nc,2
+dblp,lp,was published in
+dblp,lp,was written by
+pubmed,lp,in
+pubmed,lp,in
+dblp,nc,2
+dblp,lp,publish
+dblp,nc,3
+dblp,lp,write
+dblp,nc,3
+yelp,nc,restaurants
+dblp,lp,was written by
+yelp,nc,event planning & services
+dblp,nc,2
+dblp,lp,no
+pubmed,lp,is caused by
+dblp,nc,2
+yelp,lp,indicate
+pubmed,lp,contain
+yelp,nc,Italian
+yelp,nc,sandwiches
+dblp,lp,was received by
+yelp,nc,bars
+pubmed,lp,contain
+dblp,lp,was written by
+dblp,nc,0
+yelp,nc,restaurants
+pubmed,lp,causing
+pubmed,lp,with
+yelp,nc,bars
+dblp,nc,2
+dblp,lp,was written by
+pubmed,lp,contain
+dblp,lp,no
+dblp,nc,0
+yelp,lp,is associated with
+yelp,lp,score
+pubmed,lp,in
+yelp,nc,restaurants
+dblp,lp,was published in
+yelp,lp,is associated with
+dblp,lp,was published in
+pubmed,lp,in
+yelp,nc,restaurants
+pubmed,lp,in
+yelp,nc,beauty & spas
+yelp,nc,shopping
+dblp,lp,publish
+dblp,lp,was received by
+dblp,nc,1
+dblp,lp,was published in
+dblp,nc,3
+pubmed,lp,causing
+pubmed,lp,contain
+dblp,nc,3
+dblp,lp,write
+dblp,nc,2
+yelp,lp,located in
+yelp,lp,rate
+pubmed,lp,is caused by
+yelp,lp,indicate
+yelp,nc,bars
+pubmed,lp,causing
+dblp,nc,0
+yelp,nc,restaurants
+yelp,nc,breakfast & brunch
+dblp,nc,3
+dblp,lp,publish
+yelp,nc,beauty & spas
+dblp,lp,receive
+yelp,nc,restaurants
+pubmed,lp,with
+dblp,lp,publish
+dblp,lp,publish
+yelp,nc,beauty & spas
+dblp,nc,3
+dblp,lp,receive
+yelp,nc,restaurants
+yelp,nc,restaurants
+yelp,nc,Italian
+pubmed,lp,with
+yelp,nc,event planning & services
+yelp,nc,restaurants
+yelp,nc,restaurants
+dblp,nc,0
+dblp,nc,3
+dblp,lp,was written by
+yelp,lp,indicate
+dblp,lp,was received by
+dblp,lp,write
+yelp,lp,score
+dblp,nc,2
+dblp,nc,0
+yelp,nc,bars
+dblp,nc,1
+dblp,lp,was written by
+yelp,lp,located in
+yelp,nc,sandwiches
+dblp,nc,0
+dblp,lp,receive
+pubmed,nc,glandular disease
+pubmed,lp,in
+pubmed,lp,in
+dblp,lp,no
+pubmed,lp,contain
+yelp,lp,indicate
+dblp,lp,publish
+yelp,nc,food
+pubmed,lp,no
+yelp,lp,rate
+yelp,nc,automotive
+dblp,lp,was written by
+dblp,lp,was written by
+yelp,lp,is associated with
+dblp,nc,2
+yelp,nc,restaurants
+pubmed,nc,cardiovascular disease
+yelp,lp,described with
+dblp,nc,2
+dblp,lp,publish
+dblp,nc,0
+dblp,lp,no
+yelp,nc,beauty & spas
+yelp,nc,restaurants
+yelp,nc,Italian
+yelp,lp,is associated with
+yelp,nc,restaurants
+yelp,nc,restaurants
+dblp,nc,1
+dblp,lp,was published in
+yelp,nc,bars
+yelp,nc,restaurants
+dblp,nc,0
+pubmed,lp,no
+dblp,nc,2
+yelp,lp,described with
+yelp,nc,Italian
+yelp,lp,indicate
+dblp,lp,was published in
+yelp,lp,is associated with
+pubmed,lp,causing
+pubmed,lp,with
+yelp,lp,is associated with
+yelp,nc,sandwiches
+pubmed,lp,contain
+dblp,nc,0
+yelp,nc,restaurants
+dblp,nc,3
+pubmed,lp,with
+dblp,nc,2
+dblp,lp,was written by
+yelp,nc,beauty & spas
+yelp,nc,event planning & services
+yelp,nc,automotive
+dblp,nc,0
+dblp,lp,publish
+yelp,lp,is associated with
+dblp,lp,write
+yelp,nc,sandwiches
+yelp,lp,no
+yelp,nc,shopping
+dblp,lp,was published in
+yelp,lp,indicate
+pubmed,lp,contain
+dblp,nc,1
+dblp,lp,was received by
+pubmed,lp,no
+yelp,lp,is associated with
+yelp,lp,located in
+dblp,nc,2
+dblp,lp,was published in
+dblp,lp,was received by
+dblp,nc,0
+yelp,lp,rate
+dblp,nc,0
+pubmed,lp,in
+pubmed,lp,no
+yelp,nc,food
+dblp,nc,0
+dblp,lp,was received by
+yelp,nc,food
+yelp,lp,no
+dblp,lp,receive
+dblp,lp,receive
+yelp,nc,shopping
+dblp,lp,was received by
+dblp,nc,0
+dblp,lp,publish
+dblp,nc,0
+pubmed,lp,in
+yelp,nc,event planning & services
+dblp,lp,write
+dblp,nc,2
+dblp,nc,1
+dblp,lp,was received by
+dblp,nc,3
+yelp,nc,shopping
+yelp,lp,score
+dblp,lp,no
+dblp,lp,no
+yelp,nc,beauty & spas
+pubmed,lp,in
+dblp,lp,receive
+pubmed,nc,nervous disorder
+dblp,lp,receive
+pubmed,lp,with
+yelp,nc,automotive
+dblp,nc,1
+yelp,lp,indicate
+dblp,lp,was received by
+dblp,nc,2
+yelp,lp,indicate
+dblp,lp,was published in
+yelp,nc,breakfast & brunch
+pubmed,lp,in
+yelp,lp,located in
+yelp,nc,event planning & services
+dblp,lp,no
+pubmed,lp,no
+yelp,nc,automotive
+yelp,nc,food
+dblp,lp,publish
+dblp,nc,0
+dblp,nc,0
+dblp,nc,3
+yelp,nc,event planning & services
+pubmed,nc,pycnosis
+yelp,nc,bars
+dblp,lp,was received by
+dblp,nc,0
+dblp,nc,1
+yelp,lp,described with
+yelp,nc,food
+dblp,nc,3
+yelp,nc,bars
+yelp,nc,shopping
+yelp,nc,beauty & spas
+yelp,lp,no
+pubmed,lp,contain
+pubmed,lp,with
+pubmed,lp,causing
+yelp,lp,score
+yelp,nc,Italian
+yelp,lp,score
+dblp,nc,2
+dblp,lp,publish
+dblp,lp,was received by
+dblp,lp,no
+dblp,lp,was published in
+yelp,nc,shopping
+pubmed,lp,is caused by
+yelp,nc,sandwiches
+pubmed,lp,causing
+yelp,lp,located in
+dblp,nc,2
+pubmed,lp,is caused by
+dblp,nc,2
+yelp,lp,indicate
+dblp,nc,1
+yelp,nc,pizza
+pubmed,nc,nervous disorder
+yelp,nc,breakfast & brunch
+yelp,lp,rate
+dblp,lp,was received by
+pubmed,lp,in
+pubmed,lp,with
+pubmed,lp,with
+yelp,nc,event planning & services
+yelp,lp,rate
+yelp,lp,located in
+yelp,nc,restaurants
+dblp,lp,receive
+yelp,nc,restaurants
+pubmed,lp,in
+pubmed,nc,pycnosis
+dblp,nc,0
+yelp,lp,is associated with
+yelp,nc,beauty & spas
+dblp,lp,was published in
+yelp,lp,no
+dblp,lp,publish
+yelp,lp,score
+yelp,lp,score
+yelp,nc,event planning & services
+dblp,nc,3
+pubmed,lp,in
+dblp,lp,was written by
+yelp,lp,indicate
+yelp,lp,rate
+yelp,lp,rate
+yelp,nc,beauty & spas
+yelp,lp,score
+yelp,lp,is associated with
+yelp,nc,breakfast & brunch
+dblp,lp,write
+yelp,lp,located in
+yelp,lp,score
+dblp,lp,was received by
+yelp,nc,restaurants
+yelp,lp,described with
+dblp,lp,was published in
+yelp,nc,sandwiches
+yelp,nc,food
+dblp,nc,1
+yelp,lp,is associated with
+pubmed,nc,pycnosis
+pubmed,lp,with
+dblp,lp,receive
+dblp,nc,3
+dblp,nc,2
+yelp,nc,shopping
+yelp,nc,event planning & services
+yelp,lp,is associated with
+pubmed,lp,is caused by
+yelp,nc,pizza
+dblp,nc,0
+yelp,nc,restaurants
+yelp,lp,rate
+pubmed,lp,in
+dblp,lp,write
+dblp,lp,was received by
+pubmed,lp,in
+yelp,nc,beauty & spas
+pubmed,lp,contain
+dblp,nc,2
+dblp,lp,no
+dblp,lp,publish
+yelp,nc,restaurants
+pubmed,lp,contain
+yelp,lp,described with
+pubmed,lp,in
+dblp,nc,3
+yelp,lp,is associated with
+dblp,nc,2
+dblp,lp,was received by
+pubmed,lp,is caused by
+dblp,nc,3
+dblp,nc,0
+yelp,nc,Italian
+dblp,nc,0
+dblp,nc,0
+yelp,nc,restaurants
+dblp,nc,3
+yelp,nc,sandwiches
+yelp,nc,food
+pubmed,lp,contain
+dblp,lp,was written by
+dblp,lp,no
+yelp,nc,event planning & services
+yelp,nc,food
+dblp,lp,was written by
+pubmed,lp,no
+dblp,nc,3
+yelp,nc,beauty & spas
+pubmed,lp,contain
+yelp,nc,event planning & services
+dblp,nc,3
+pubmed,lp,with
+yelp,lp,indicate
+yelp,lp,located in
+yelp,lp,is associated with
+pubmed,lp,in
+dblp,nc,0
+dblp,nc,3
+pubmed,lp,causing
+dblp,lp,publish
+dblp,lp,publish
+pubmed,lp,with
+pubmed,lp,with
+dblp,nc,2
+dblp,lp,was received by
+yelp,lp,described with
+dblp,lp,was received by
+dblp,nc,3
+yelp,nc,food
+dblp,lp,was written by
+yelp,lp,indicate
+dblp,nc,3
+dblp,lp,was received by
+yelp,lp,located in
+yelp,nc,automotive
+yelp,nc,shopping
+dblp,nc,3
+dblp,lp,write
+yelp,lp,described with
+pubmed,lp,is caused by
+yelp,lp,described with
+dblp,nc,1
+dblp,lp,receive
+dblp,lp,write
+pubmed,lp,in
+yelp,lp,described with
+yelp,nc,breakfast & brunch
+dblp,lp,publish
+yelp,lp,rate
+dblp,lp,was received by
+pubmed,lp,with
+dblp,nc,0
+yelp,nc,food
+yelp,lp,indicate
+yelp,nc,restaurants
+dblp,lp,write
+dblp,nc,1
+pubmed,lp,is caused by
+dblp,nc,0
+dblp,lp,receive
+dblp,nc,3
+dblp,lp,write
+dblp,lp,was published in
+dblp,lp,publish
+dblp,lp,was written by
+dblp,nc,0
+dblp,nc,3
+dblp,lp,was written by
+dblp,nc,2
+pubmed,lp,with
+pubmed,lp,contain
+dblp,lp,write
+yelp,nc,automotive
+yelp,lp,indicate
+yelp,lp,is associated with
+yelp,lp,indicate
+yelp,nc,automotive
+yelp,lp,no
+yelp,nc,shopping
+pubmed,lp,contain
+pubmed,nc,skin disease
+dblp,lp,receive
+dblp,nc,0
+dblp,lp,no
+yelp,nc,restaurants
+yelp,nc,bars
+yelp,nc,pizza
+dblp,nc,1
+yelp,nc,Italian
+yelp,nc,pizza
+yelp,lp,rate
+dblp,nc,2
+dblp,nc,0
+yelp,nc,beauty & spas
+yelp,nc,beauty & spas
+pubmed,lp,no
+pubmed,lp,contain
+pubmed,lp,contain
+dblp,nc,2
+yelp,nc,automotive
+dblp,lp,write
+pubmed,lp,contain
+yelp,lp,described with
+yelp,nc,shopping
+dblp,lp,write
+yelp,nc,bars
+dblp,nc,2
+yelp,nc,automotive
+dblp,nc,3
+pubmed,lp,contain
+pubmed,lp,in
+dblp,lp,was written by
+dblp,lp,write
+yelp,nc,restaurants
+yelp,lp,is associated with
+dblp,nc,3
+yelp,nc,beauty & spas
+dblp,nc,0
+yelp,lp,located in
+pubmed,lp,in
+dblp,lp,write
+pubmed,lp,in
+dblp,lp,was written by
+pubmed,lp,in
+dblp,lp,publish
+pubmed,lp,in
+dblp,lp,write
+pubmed,lp,in
+yelp,nc,shopping
+dblp,lp,no
+dblp,nc,3
+dblp,lp,write
+yelp,nc,beauty & spas
+pubmed,lp,contain
+dblp,nc,2
+yelp,nc,bars
+dblp,lp,was received by
+yelp,nc,restaurants
+dblp,lp,receive
+yelp,nc,automotive
+dblp,nc,0
+yelp,nc,Italian
+dblp,lp,no
+yelp,nc,restaurants
+pubmed,lp,contain
+dblp,lp,publish
+yelp,nc,food
+yelp,nc,beauty & spas
+yelp,nc,food
+yelp,nc,bars
+dblp,lp,was written by
+dblp,nc,3
+dblp,lp,publish
+yelp,lp,indicate
+yelp,lp,described with
+pubmed,lp,no
+pubmed,lp,in
+yelp,nc,shopping
+yelp,nc,beauty & spas
+yelp,nc,event planning & services
+dblp,lp,publish
+pubmed,lp,in
+dblp,nc,0
+yelp,lp,score
+dblp,lp,receive
+dblp,lp,was written by
+dblp,lp,write
+dblp,nc,0
+yelp,lp,rate
+dblp,lp,write
+dblp,nc,2
+yelp,lp,located in
+dblp,lp,no
+yelp,nc,restaurants
+dblp,lp,was published in
+dblp,lp,no
+dblp,lp,receive
+pubmed,lp,in
+yelp,nc,beauty & spas
+yelp,nc,automotive
+yelp,nc,Italian
+dblp,nc,1
+yelp,lp,score
+pubmed,lp,contain
+pubmed,lp,in
+pubmed,lp,in
+dblp,nc,3
+dblp,nc,3
+yelp,nc,restaurants
+yelp,nc,Italian
+dblp,lp,write
+pubmed,lp,contain
+yelp,lp,indicate
+pubmed,nc,inflammatory disease
+dblp,lp,publish
+dblp,lp,publish
+dblp,lp,write
+dblp,lp,receive
+yelp,nc,restaurants
+dblp,nc,0
+dblp,nc,0
+yelp,lp,rate
+pubmed,lp,in
+yelp,nc,automotive
+dblp,nc,2
+dblp,nc,3
+dblp,lp,receive
+yelp,nc,event planning & services
+dblp,lp,write
+yelp,nc,shopping
+dblp,nc,3
+pubmed,lp,in
+dblp,lp,was written by
+yelp,lp,rate
+dblp,lp,publish
+dblp,lp,no
+dblp,nc,2
+yelp,nc,beauty & spas
+dblp,lp,was published in
+pubmed,lp,is caused by
+yelp,lp,rate
+dblp,nc,1
+dblp,lp,write
+pubmed,nc,inflammatory disease
+yelp,nc,beauty & spas
+yelp,nc,restaurants
+dblp,nc,0
+yelp,nc,event planning & services
+dblp,nc,0
+yelp,lp,indicate
+pubmed,lp,is caused by
+dblp,lp,no
+dblp,lp,receive
+dblp,lp,receive
+dblp,lp,no
+dblp,lp,was written by
+yelp,nc,bars
+pubmed,lp,causing
+yelp,nc,food
+yelp,nc,Italian
+dblp,lp,write
+dblp,lp,no
+dblp,lp,write
+dblp,nc,2
+pubmed,lp,no
+yelp,lp,is associated with
+dblp,lp,no
+yelp,lp,no
+dblp,lp,write
+pubmed,lp,contain
+pubmed,lp,no
+yelp,nc,beauty & spas
+pubmed,lp,in
+dblp,lp,was written by
+dblp,lp,receive
+dblp,nc,0
+dblp,lp,publish
+yelp,nc,restaurants
+dblp,lp,no
+dblp,nc,0
+yelp,lp,score
+dblp,lp,receive
+pubmed,lp,with
+pubmed,lp,contain
+pubmed,lp,in
+dblp,lp,publish
+yelp,lp,located in
+dblp,lp,was written by
+yelp,lp,indicate
+yelp,nc,sandwiches
+yelp,nc,shopping
+yelp,nc,shopping
+yelp,nc,event planning & services
+yelp,nc,event planning & services
+dblp,lp,no
+yelp,lp,score
+pubmed,lp,in
+pubmed,lp,in
+yelp,lp,indicate
+yelp,lp,score
+yelp,nc,automotive
+pubmed,lp,no
+pubmed,lp,in
+yelp,nc,beauty & spas
+dblp,lp,receive
+yelp,lp,no
+pubmed,lp,in
+dblp,lp,was written by
+yelp,lp,located in
+dblp,lp,receive
+dblp,lp,was received by
+yelp,nc,bars
+yelp,lp,rate
+pubmed,lp,with
+yelp,lp,is associated with
+yelp,nc,food
+yelp,lp,indicate
+dblp,lp,was published in
+pubmed,nc,cardiovascular disease
+yelp,lp,located in
+yelp,nc,Italian
+yelp,lp,is associated with
+yelp,lp,is associated with
+pubmed,lp,in
+dblp,nc,3
+dblp,nc,3
+dblp,lp,receive
+dblp,lp,write
+dblp,lp,was received by
+dblp,lp,no
+pubmed,lp,is caused by
+dblp,lp,write
+pubmed,lp,no
+yelp,lp,located in
+dblp,lp,receive
+yelp,nc,food
+dblp,lp,was received by
+dblp,lp,was written by
+yelp,nc,beauty & spas
+yelp,lp,is associated with
+yelp,nc,Italian
+pubmed,lp,in
+dblp,lp,publish
+yelp,nc,beauty & spas
+yelp,nc,pizza
+yelp,lp,rate
+dblp,nc,3
+dblp,lp,no
+yelp,lp,score
+dblp,nc,1
+yelp,nc,sandwiches
+dblp,lp,was received by
+pubmed,lp,in
+dblp,nc,3
+yelp,nc,shopping
+dblp,nc,3
+yelp,lp,no
+dblp,lp,write
+pubmed,lp,contain
+yelp,lp,located in
+pubmed,lp,in
+dblp,nc,1
+yelp,lp,described with
+pubmed,lp,no
+dblp,lp,no
+yelp,nc,bars
+yelp,nc,shopping
+pubmed,nc,communicable disease
+yelp,lp,rate
+dblp,lp,was written by
+dblp,lp,was published in
+yelp,lp,rate
+dblp,nc,3
+yelp,nc,bars
+yelp,lp,score
+yelp,lp,indicate
+dblp,lp,publish
+yelp,lp,score
+pubmed,lp,contain
+yelp,lp,indicate
+yelp,nc,restaurants
+dblp,nc,2
+dblp,lp,publish
+dblp,nc,2
+pubmed,lp,in
+yelp,lp,located in
+yelp,lp,described with
+yelp,nc,automotive
+dblp,lp,was written by
+dblp,nc,3
+yelp,nc,food
+dblp,nc,1
+pubmed,lp,with
+dblp,lp,publish
+dblp,lp,write
+pubmed,lp,in
+yelp,nc,event planning & services
+dblp,nc,3
+yelp,lp,no
+yelp,lp,rate
+pubmed,lp,in
+dblp,lp,publish
+yelp,nc,shopping
+dblp,nc,0
+yelp,lp,is associated with
+dblp,nc,0
+dblp,nc,2
+yelp,lp,is associated with
+yelp,lp,rate
+dblp,lp,was received by
+dblp,nc,2
+dblp,nc,0
+yelp,nc,shopping
+yelp,nc,pizza
+dblp,nc,1
+pubmed,lp,in
+pubmed,lp,in
+yelp,lp,located in
+yelp,nc,sandwiches
+dblp,lp,receive
+pubmed,lp,in
+yelp,nc,shopping
+pubmed,lp,causing
+pubmed,lp,contain
+yelp,nc,beauty & spas
+dblp,nc,2
+yelp,lp,no
+yelp,lp,no
+yelp,nc,food
+dblp,nc,0
+dblp,lp,publish
+yelp,nc,sandwiches
+yelp,nc,Italian
+pubmed,lp,contain
+yelp,lp,is associated with
+yelp,nc,restaurants
+dblp,lp,write
+dblp,nc,2
+dblp,lp,was received by
+yelp,nc,beauty & spas
+dblp,lp,was written by
+dblp,lp,was published in
+pubmed,lp,in
+yelp,lp,described with
+pubmed,lp,is caused by
+dblp,nc,3
+yelp,lp,described with
+pubmed,lp,in
+dblp,lp,was written by
+dblp,nc,0
+dblp,lp,receive
+yelp,lp,rate
+yelp,nc,automotive
+yelp,lp,indicate
+dblp,nc,3
+dblp,nc,0
+yelp,lp,indicate
+dblp,lp,publish
+pubmed,nc,nervous disorder
+dblp,nc,0
+dblp,lp,no
+yelp,nc,food
+dblp,nc,2
+yelp,lp,described with
+yelp,nc,automotive
+dblp,lp,was written by
+dblp,lp,publish
+yelp,lp,is associated with
+dblp,lp,receive
+dblp,lp,was published in
+yelp,nc,shopping
+yelp,nc,automotive
+pubmed,nc,communicable disease
+dblp,lp,write
+yelp,lp,rate
+dblp,lp,write
+dblp,nc,2
+dblp,nc,0
+pubmed,lp,causing
+dblp,lp,was written by
+yelp,nc,shopping
+dblp,nc,2
+pubmed,lp,causing
+yelp,nc,beauty & spas
+pubmed,lp,contain
+yelp,nc,Italian
+dblp,lp,was published in
+dblp,nc,0
+dblp,nc,1
+yelp,lp,indicate
+dblp,lp,was received by
+dblp,lp,was received by
+pubmed,lp,is caused by
+pubmed,nc,cardiovascular disease
+dblp,lp,was published in
+pubmed,nc,cancer
+dblp,nc,2
+yelp,lp,indicate
+dblp,lp,was written by
+yelp,nc,restaurants
+dblp,nc,0
+dblp,lp,write
+dblp,lp,no
+dblp,lp,was published in
+yelp,lp,is associated with
+dblp,nc,2
+dblp,lp,was written by
+dblp,nc,1
+yelp,nc,breakfast & brunch
+yelp,lp,rate
+pubmed,lp,in
+yelp,nc,event planning & services
+pubmed,lp,causing
+pubmed,nc,nervous disorder
+yelp,nc,beauty & spas
+dblp,nc,0
+pubmed,lp,in
+pubmed,lp,no
+dblp,lp,receive
+pubmed,lp,is caused by
+yelp,lp,described with
+dblp,lp,was published in
+dblp,nc,3
+dblp,nc,3
+dblp,nc,3
+dblp,nc,1
+dblp,lp,was published in
+dblp,lp,no
+dblp,nc,3
+yelp,lp,located in
+yelp,lp,is associated with
+pubmed,lp,in
+dblp,lp,was published in
+yelp,lp,rate
+yelp,nc,beauty & spas
+yelp,lp,is associated with
+yelp,nc,beauty & spas
+dblp,lp,was written by
+yelp,lp,no
+dblp,lp,receive
+dblp,lp,no
+yelp,nc,bars
+pubmed,lp,contain
+yelp,nc,Italian
+dblp,lp,write
+dblp,nc,0
+yelp,lp,score
+dblp,lp,receive
+yelp,nc,bars
+yelp,nc,Italian
+dblp,lp,was published in
+dblp,nc,3
+dblp,nc,1
+yelp,nc,sandwiches
+dblp,lp,was published in
+yelp,lp,rate
+dblp,lp,no
+pubmed,lp,in
+yelp,lp,is associated with
+yelp,lp,rate
+yelp,nc,restaurants
+dblp,lp,was written by
+dblp,nc,0
+dblp,lp,write
+yelp,nc,beauty & spas
+yelp,lp,located in
+yelp,lp,indicate
+dblp,nc,2
+dblp,nc,1
+dblp,lp,was received by
+dblp,lp,was published in
+pubmed,lp,in
+yelp,nc,event planning & services
+yelp,nc,shopping
+dblp,nc,0
+pubmed,lp,is caused by
+dblp,nc,2
+yelp,lp,score
+dblp,lp,was published in
+pubmed,lp,in
+dblp,nc,1
+dblp,lp,write
+pubmed,lp,causing
+dblp,nc,0
+yelp,lp,described with
+pubmed,lp,in
+pubmed,lp,in
+dblp,nc,0
+dblp,lp,was written by
+yelp,nc,restaurants
+dblp,lp,was written by
+pubmed,lp,in
+dblp,nc,2
+dblp,lp,no
+dblp,nc,0
+yelp,nc,shopping
+yelp,nc,food
+dblp,lp,was written by
+dblp,lp,write
+pubmed,lp,contain
+dblp,nc,0
+yelp,lp,no
+yelp,lp,indicate
+dblp,lp,publish
+dblp,lp,no
+dblp,nc,0
+yelp,nc,bars
+dblp,lp,publish
+yelp,nc,restaurants
+dblp,lp,write
+dblp,nc,0
+dblp,lp,write
+pubmed,lp,in
+pubmed,lp,in
+dblp,lp,was received by
+pubmed,lp,in
+dblp,lp,receive
+dblp,nc,2
+dblp,nc,2
+pubmed,lp,no
+yelp,lp,located in
+yelp,lp,indicate
+yelp,nc,restaurants
+yelp,nc,restaurants
+dblp,nc,1
+yelp,nc,beauty & spas
+pubmed,lp,in
+dblp,lp,publish
+dblp,nc,2
+dblp,lp,write
+pubmed,nc,communicable disease
+dblp,nc,2
+dblp,lp,was received by
+dblp,lp,write
+pubmed,lp,in
+yelp,lp,indicate
+dblp,nc,3
+dblp,nc,2
+yelp,nc,food
+dblp,lp,was written by
+pubmed,lp,with
+dblp,nc,1
+dblp,lp,receive
+dblp,nc,1
+yelp,nc,automotive
+dblp,nc,0
+dblp,nc,1
+yelp,lp,score
+yelp,lp,located in
+dblp,nc,3
+dblp,nc,0
+pubmed,lp,with
+dblp,lp,was written by
+pubmed,lp,in
+yelp,nc,restaurants
+dblp,lp,write
+yelp,lp,no
+pubmed,lp,is caused by
+yelp,nc,sandwiches
+dblp,nc,2
+dblp,nc,3
+yelp,lp,indicate
+pubmed,nc,pycnosis
+dblp,lp,publish
+dblp,lp,was written by
+dblp,nc,0
+yelp,lp,no
+dblp,lp,receive
+dblp,lp,was published in
+dblp,nc,0
+yelp,nc,automotive
+dblp,lp,was received by
+pubmed,lp,in
+yelp,lp,described with
+dblp,nc,0
+yelp,nc,Italian
+yelp,lp,located in
+yelp,lp,indicate
+dblp,nc,1
+yelp,lp,described with
+dblp,lp,was received by
+yelp,lp,rate
+yelp,nc,breakfast & brunch
+dblp,lp,was written by
+dblp,nc,2
+yelp,lp,described with
+dblp,nc,3
+dblp,lp,was published in
+pubmed,lp,with
+yelp,lp,described with
+dblp,nc,0
+yelp,lp,indicate
+dblp,lp,was received by
+yelp,lp,rate
+pubmed,lp,no
+yelp,lp,located in
+yelp,lp,located in
+dblp,nc,3
+dblp,nc,3
+yelp,lp,no
+pubmed,lp,in
+yelp,nc,sandwiches
+dblp,nc,2
+pubmed,lp,causing
+yelp,lp,score
+yelp,nc,bars
+yelp,lp,located in
+yelp,nc,event planning & services
+yelp,nc,Italian
+yelp,nc,beauty & spas
+dblp,nc,0
+yelp,nc,food
+dblp,lp,receive
+pubmed,lp,contain
+dblp,lp,was received by
+pubmed,lp,is caused by
+pubmed,lp,with
+dblp,nc,1
+yelp,nc,automotive
+pubmed,lp,no
+dblp,nc,1
+dblp,lp,was written by
+yelp,lp,described with
+dblp,nc,3
+dblp,lp,no
+yelp,nc,beauty & spas
+dblp,lp,was published in
+dblp,nc,2
+yelp,nc,bars
+dblp,lp,write
+dblp,lp,was published in
+pubmed,lp,with
+dblp,lp,publish
+yelp,lp,no
+pubmed,lp,causing
+dblp,nc,1
+yelp,nc,restaurants
+dblp,nc,0
+dblp,lp,no
+yelp,nc,restaurants
+yelp,nc,restaurants
+pubmed,lp,is caused by
+yelp,nc,shopping
+dblp,lp,publish
+pubmed,nc,pycnosis
+dblp,lp,receive
+yelp,nc,shopping
+dblp,nc,3
+dblp,nc,3
+pubmed,lp,no
+dblp,lp,was received by
+pubmed,lp,in
+dblp,nc,2
+dblp,lp,was received by
+dblp,nc,3
+dblp,lp,was published in
+dblp,lp,was written by
+dblp,lp,publish
+dblp,nc,3
+dblp,nc,2
+dblp,nc,0
+dblp,lp,was written by
+yelp,lp,located in
+yelp,lp,indicate
+dblp,nc,1
+dblp,lp,write
+dblp,nc,0
+dblp,lp,write
+pubmed,nc,inflammatory disease
+dblp,nc,1
+pubmed,lp,in
+pubmed,lp,causing
+yelp,nc,bars
+yelp,nc,event planning & services
+dblp,lp,no
+pubmed,lp,contain
+yelp,lp,no
+yelp,lp,described with
+yelp,lp,located in
+dblp,lp,no
+yelp,lp,is associated with
+yelp,nc,food
+pubmed,lp,causing
+yelp,lp,indicate
+pubmed,lp,with
+yelp,nc,restaurants
+dblp,nc,1
+dblp,nc,1
+dblp,lp,publish
+pubmed,lp,with
+dblp,nc,0
+dblp,lp,write
+yelp,nc,bars
+pubmed,lp,contain
+dblp,lp,no
+dblp,nc,1
+dblp,nc,0
+dblp,lp,receive
+dblp,nc,0
+dblp,lp,was received by
+yelp,nc,restaurants
+pubmed,lp,in
+pubmed,lp,contain
+dblp,lp,was written by
+dblp,lp,receive
+dblp,nc,0
+pubmed,nc,cardiovascular disease
+dblp,lp,no
+yelp,lp,is associated with
+dblp,nc,0
+dblp,nc,0
+yelp,lp,rate
+dblp,nc,1
+dblp,lp,publish
+yelp,nc,shopping
+pubmed,lp,no
+pubmed,nc,communicable disease
+dblp,lp,was published in
+dblp,nc,2
+yelp,lp,is associated with
+yelp,nc,automotive
+yelp,nc,food
+pubmed,nc,nervous disorder
+yelp,nc,restaurants
+dblp,lp,publish
+yelp,lp,is associated with
+yelp,nc,event planning & services
+dblp,nc,0
+yelp,nc,bars
+pubmed,lp,contain
+pubmed,lp,contain
+dblp,nc,2
+yelp,lp,described with
+yelp,nc,shopping
+dblp,lp,no
+dblp,lp,no
+dblp,lp,was published in
+dblp,nc,3
+pubmed,lp,contain
+dblp,lp,write
+dblp,lp,write
+pubmed,lp,with
+yelp,nc,automotive
+pubmed,lp,in
+pubmed,lp,in
+dblp,lp,write
+dblp,nc,0
+dblp,nc,1
+dblp,lp,publish
+dblp,nc,3
+yelp,lp,rate
+yelp,lp,rate
+yelp,nc,shopping
+yelp,lp,is associated with
+dblp,nc,0
+yelp,lp,score
+pubmed,lp,no
+yelp,nc,beauty & spas
+yelp,lp,is associated with
+yelp,lp,score
+dblp,nc,1
+dblp,lp,was received by
+dblp,lp,publish
+pubmed,lp,in
+pubmed,lp,no
+yelp,nc,restaurants
+yelp,nc,bars
+dblp,lp,write
+dblp,nc,3
+dblp,lp,publish
+yelp,lp,is associated with
+yelp,lp,described with
+dblp,nc,0
+pubmed,lp,contain
+yelp,nc,breakfast & brunch
+dblp,lp,no
+pubmed,lp,with
+dblp,lp,publish
+yelp,nc,event planning & services
+yelp,lp,rate
+yelp,lp,indicate
+dblp,lp,receive
+dblp,lp,was published in
+dblp,lp,was published in
+dblp,lp,receive
+pubmed,lp,with
+yelp,lp,indicate
+dblp,lp,receive
+dblp,nc,2
+dblp,nc,2
+dblp,lp,was published in
+dblp,lp,receive
+pubmed,lp,no
+pubmed,lp,is caused by
+pubmed,lp,contain
+dblp,lp,write
+yelp,lp,no
+dblp,lp,receive
+dblp,nc,1
+dblp,lp,publish
+dblp,nc,3
+pubmed,lp,is caused by
+yelp,lp,rate
+dblp,nc,2
+dblp,lp,no
+pubmed,lp,with
+pubmed,lp,contain
+dblp,lp,was received by
+dblp,lp,write
+dblp,nc,0
+yelp,lp,score
+yelp,lp,indicate
+yelp,lp,described with
+yelp,lp,score
+yelp,lp,indicate
+pubmed,lp,in
+dblp,lp,publish
+dblp,lp,publish
+pubmed,lp,contain
+dblp,lp,was published in
+pubmed,lp,is caused by
+dblp,nc,2
+yelp,nc,shopping
+yelp,nc,restaurants
+dblp,lp,write
+yelp,lp,no
+dblp,nc,1
+yelp,lp,described with
+dblp,lp,was written by
+yelp,nc,automotive
+dblp,nc,2
+pubmed,lp,contain
+yelp,lp,no
+yelp,nc,bars
+yelp,lp,located in
+dblp,nc,3
+yelp,lp,no
+dblp,nc,0
+dblp,nc,0
+pubmed,nc,pycnosis
+pubmed,lp,in
+pubmed,lp,contain
+dblp,lp,no
+dblp,lp,no
+dblp,lp,was written by
+yelp,nc,sandwiches
+pubmed,lp,contain
+pubmed,lp,with
+dblp,lp,publish
+dblp,nc,2
+yelp,nc,automotive
+yelp,nc,pizza
+yelp,lp,rate
+yelp,lp,indicate
+dblp,lp,receive
+yelp,nc,automotive
+yelp,nc,shopping
+yelp,lp,located in
+dblp,nc,0
+dblp,nc,3
+dblp,lp,no
+dblp,nc,2
+pubmed,lp,with
+dblp,lp,no
+dblp,lp,publish
+dblp,lp,publish
+dblp,lp,was published in
+pubmed,lp,with
+pubmed,lp,with
+yelp,nc,bars
+pubmed,lp,is caused by
+dblp,lp,receive
+yelp,lp,described with
+yelp,lp,score
+dblp,lp,write
+yelp,nc,bars
+pubmed,lp,in
+yelp,nc,breakfast & brunch
+dblp,nc,1
+yelp,nc,Italian
+dblp,nc,2
+yelp,nc,automotive
+dblp,lp,write
+yelp,nc,bars
+pubmed,lp,in
+yelp,nc,restaurants
+pubmed,lp,with
+dblp,nc,2
+dblp,lp,was received by
+yelp,nc,bars
+yelp,nc,restaurants
+dblp,nc,2
+dblp,nc,0
+yelp,nc,event planning & services
+dblp,nc,2
+pubmed,lp,with
+yelp,lp,score
+dblp,lp,receive
+pubmed,lp,in
+yelp,lp,rate
+pubmed,lp,causing
+yelp,nc,restaurants
+pubmed,lp,in
+yelp,nc,event planning & services
+dblp,lp,receive
+yelp,lp,located in
+dblp,lp,write
+yelp,lp,no
+pubmed,lp,is caused by
+yelp,nc,shopping
+dblp,nc,2
+yelp,lp,score
+pubmed,lp,in
+dblp,lp,was published in
+dblp,lp,write
+dblp,lp,no
+pubmed,lp,in
+dblp,nc,2
+yelp,nc,bars
+dblp,lp,no
+yelp,nc,Italian
+pubmed,lp,with
+dblp,nc,0
+dblp,lp,was written by
+yelp,nc,pizza
+yelp,lp,no
+yelp,lp,rate
+yelp,lp,score
+pubmed,lp,in
+yelp,nc,restaurants
+dblp,lp,publish
+dblp,nc,3
+dblp,nc,0
+pubmed,lp,in
+yelp,lp,no
+dblp,nc,0
+pubmed,nc,inflammatory disease
+yelp,lp,described with
+yelp,nc,event planning & services
+pubmed,lp,with
+dblp,nc,3
+dblp,nc,2
+yelp,nc,restaurants
+dblp,lp,was published in
+yelp,nc,breakfast & brunch
+yelp,nc,food
+dblp,nc,1
+pubmed,lp,in
+yelp,nc,food
+dblp,lp,no
+yelp,nc,restaurants
+dblp,nc,0
+dblp,nc,2
+dblp,lp,publish
+yelp,lp,rate
+yelp,lp,no
+yelp,lp,rate
+dblp,nc,3
+dblp,nc,0
+dblp,nc,3
+pubmed,lp,in
+dblp,nc,3
+yelp,lp,described with
+dblp,lp,receive
+pubmed,lp,contain
+yelp,nc,shopping
+yelp,lp,score
+dblp,lp,was received by
+dblp,lp,receive
+yelp,lp,described with
+yelp,nc,Italian
+yelp,nc,food
+dblp,nc,2
+pubmed,lp,contain
+yelp,nc,restaurants
+yelp,lp,indicate
+dblp,nc,0
+dblp,lp,was written by
+dblp,nc,3
+yelp,nc,automotive
+yelp,nc,event planning & services
+dblp,nc,1
+dblp,lp,write
+yelp,lp,rate
+yelp,lp,indicate
+dblp,nc,1
+dblp,nc,3
+dblp,nc,0
+dblp,lp,receive
+dblp,nc,0
+yelp,lp,located in
+pubmed,lp,in
+dblp,nc,0
+yelp,lp,score
+dblp,nc,0
+yelp,lp,described with
+dblp,nc,2
+yelp,lp,located in
+yelp,lp,located in
+dblp,nc,3
+dblp,lp,was received by
+yelp,lp,score
+yelp,lp,rate
+dblp,lp,publish
+yelp,nc,restaurants
+yelp,nc,event planning & services
+yelp,lp,score
+pubmed,lp,contain
+dblp,nc,1
+dblp,nc,2
+yelp,nc,restaurants
+yelp,nc,restaurants
+dblp,lp,publish
+yelp,nc,food
+yelp,nc,event planning & services
+dblp,nc,1
+dblp,nc,0
+dblp,lp,write
+pubmed,lp,in
+pubmed,lp,with
+dblp,lp,was received by
+yelp,lp,score
+dblp,lp,publish
+yelp,lp,is associated with
+dblp,nc,3
+pubmed,lp,in
+pubmed,lp,with
+yelp,lp,score
+dblp,nc,1
+yelp,lp,score
+dblp,nc,0
+dblp,lp,was published in
+pubmed,lp,in
+yelp,nc,bars
+dblp,lp,was published in
+yelp,lp,is associated with
+pubmed,lp,contain
+yelp,nc,restaurants
+dblp,lp,was published in
+dblp,lp,was received by
+yelp,nc,event planning & services
+dblp,lp,receive
+yelp,lp,rate
+pubmed,lp,with
+dblp,lp,was written by
+yelp,lp,is associated with
+yelp,lp,score
+pubmed,lp,contain
+dblp,nc,0
+yelp,nc,Italian
+yelp,nc,shopping
+yelp,lp,is associated with
+yelp,nc,sandwiches
+yelp,nc,event planning & services
+pubmed,lp,in
+yelp,nc,event planning & services
+dblp,nc,3
+pubmed,lp,in
+yelp,nc,beauty & spas
+yelp,lp,indicate
+pubmed,lp,no
+dblp,lp,was published in
+pubmed,lp,with
+dblp,nc,1
+pubmed,lp,in
+pubmed,lp,no
+pubmed,lp,in
+yelp,lp,located in
+dblp,lp,was written by
+pubmed,lp,contain
+yelp,nc,shopping
+yelp,lp,is associated with
+yelp,lp,rate
+pubmed,lp,contain
+dblp,lp,was written by
+dblp,nc,0
+dblp,nc,2
+pubmed,lp,contain
+dblp,nc,3
+dblp,nc,3
+yelp,lp,is associated with
+dblp,nc,2
+yelp,lp,located in
+dblp,nc,0
+yelp,lp,described with
+yelp,lp,described with
+yelp,nc,food
+yelp,lp,score
+yelp,lp,score
+dblp,lp,no
+yelp,lp,score
+yelp,nc,sandwiches
+yelp,nc,sandwiches
+yelp,lp,located in
+yelp,nc,restaurants
+yelp,lp,no
+yelp,nc,restaurants
+dblp,lp,was published in
+dblp,lp,write
+yelp,lp,described with
+yelp,nc,automotive
+dblp,nc,3
+yelp,lp,located in
+dblp,nc,2
+dblp,lp,was written by
+dblp,nc,2
+yelp,nc,food
+dblp,lp,was received by
+yelp,lp,indicate
+dblp,lp,publish
+dblp,nc,1
+dblp,lp,was written by
+pubmed,nc,inflammatory disease
+dblp,nc,0
+dblp,lp,receive
+yelp,nc,pizza
+yelp,lp,described with
+yelp,nc,restaurants
+yelp,lp,no
+dblp,nc,0
+pubmed,lp,in
+yelp,nc,food
+pubmed,lp,in
+yelp,nc,automotive
+dblp,nc,1
+yelp,nc,restaurants
+dblp,nc,2
+yelp,lp,indicate
+yelp,lp,described with
+yelp,lp,is associated with
+yelp,lp,located in
+yelp,nc,event planning & services
+yelp,lp,indicate
+dblp,nc,3
+dblp,lp,receive
+yelp,nc,automotive
+yelp,lp,score
+yelp,lp,no
+dblp,lp,write
+yelp,nc,restaurants
+dblp,nc,3
+dblp,lp,receive
+yelp,nc,restaurants
+dblp,lp,publish
+yelp,nc,Italian
+yelp,nc,pizza
+dblp,lp,no
+pubmed,lp,with
+yelp,lp,described with
+yelp,nc,pizza
+yelp,lp,described with
+yelp,nc,breakfast & brunch
+pubmed,lp,contain
+yelp,nc,bars
+pubmed,lp,is caused by
+dblp,lp,no
+yelp,lp,is associated with
+yelp,lp,no
+dblp,nc,0
+dblp,lp,no
+pubmed,lp,contain
+dblp,lp,was received by
+dblp,lp,publish
+yelp,nc,beauty & spas
+pubmed,lp,in
+yelp,lp,indicate
+dblp,lp,no
+yelp,lp,located in
+yelp,lp,described with
+yelp,lp,no
+yelp,nc,restaurants
+yelp,nc,Italian
+dblp,nc,2
+yelp,nc,food
+dblp,lp,receive
+dblp,nc,3
+dblp,nc,2
+dblp,lp,no
+dblp,nc,1
+dblp,lp,was received by
+dblp,lp,was written by
+dblp,nc,2
+dblp,lp,publish
+dblp,lp,publish
+dblp,lp,receive
+yelp,lp,score
+dblp,lp,receive
+yelp,lp,is associated with
+yelp,nc,pizza
+yelp,nc,beauty & spas
+dblp,nc,3
+dblp,nc,2
+yelp,nc,restaurants
+dblp,lp,write
+dblp,nc,2
+pubmed,lp,in
+yelp,lp,indicate
+yelp,nc,restaurants
+dblp,lp,no
+yelp,nc,bars
+yelp,nc,restaurants
+dblp,lp,no
+pubmed,lp,in
+dblp,lp,was published in
+yelp,lp,rate
+yelp,nc,food
+dblp,nc,0
+dblp,lp,publish
+yelp,nc,restaurants
+dblp,lp,receive
+dblp,lp,receive
+yelp,lp,score
+yelp,lp,rate
+pubmed,lp,in
+dblp,nc,3
+dblp,lp,publish
+yelp,nc,restaurants
+dblp,lp,write
+pubmed,lp,with
+dblp,lp,was written by
+dblp,nc,2
+dblp,nc,2
+pubmed,lp,contain
+yelp,nc,Italian
+dblp,nc,0
+dblp,nc,0
+yelp,nc,sandwiches
+yelp,nc,sandwiches
+dblp,nc,1
+yelp,lp,described with
+yelp,lp,located in
+pubmed,lp,causing
+pubmed,lp,with
+yelp,lp,rate
+yelp,lp,located in
+dblp,lp,receive
+dblp,nc,3
+dblp,lp,was received by
+dblp,lp,publish
+yelp,nc,beauty & spas
+pubmed,lp,in
+dblp,lp,was written by
+pubmed,lp,in
+dblp,lp,was published in
+yelp,lp,is associated with
+yelp,lp,located in
+dblp,nc,0
+yelp,nc,beauty & spas
+dblp,nc,3
+dblp,lp,was received by
+pubmed,lp,in
+dblp,nc,2
+dblp,lp,write
+yelp,lp,described with
+dblp,lp,publish
+yelp,lp,score
+pubmed,lp,in
+yelp,lp,is associated with
+dblp,nc,0
+pubmed,lp,in
+yelp,nc,Italian
+yelp,nc,restaurants
+pubmed,lp,causing
+dblp,lp,receive
+pubmed,lp,in
+dblp,nc,3
+dblp,nc,1
+dblp,nc,1
+pubmed,lp,in
+yelp,nc,breakfast & brunch
+yelp,nc,bars
+pubmed,lp,in
+dblp,lp,write
+yelp,nc,restaurants
+yelp,nc,automotive
+pubmed,lp,in
+yelp,lp,score
+dblp,lp,publish
+yelp,lp,indicate
+yelp,lp,indicate
+pubmed,lp,is caused by
+yelp,nc,automotive
+yelp,nc,food
+pubmed,lp,no
+yelp,nc,shopping
+dblp,lp,publish
+yelp,nc,restaurants
+dblp,nc,0
+yelp,nc,shopping
+pubmed,lp,in
+dblp,lp,was written by
+dblp,nc,2
+dblp,lp,receive
+dblp,lp,receive
+yelp,nc,shopping
+yelp,lp,score
+dblp,nc,0
+yelp,nc,restaurants
+dblp,lp,write
+dblp,lp,publish
+yelp,nc,sandwiches
+pubmed,lp,in
+yelp,nc,restaurants
+yelp,nc,restaurants
+dblp,nc,3
+pubmed,lp,contain
+yelp,nc,restaurants
+dblp,nc,0
+yelp,lp,no
+dblp,lp,write
+pubmed,lp,with
+pubmed,lp,contain
+dblp,lp,write
+pubmed,lp,with
+pubmed,lp,is caused by
+pubmed,nc,cardiovascular disease
+dblp,lp,was published in
+dblp,lp,was written by
+dblp,nc,3
+yelp,nc,shopping
+yelp,nc,sandwiches
+dblp,nc,0
+dblp,nc,3
+dblp,lp,write
+yelp,lp,no
+yelp,lp,no
+dblp,lp,receive
+yelp,nc,event planning & services
+dblp,lp,write
+dblp,lp,was received by
+yelp,nc,Italian
+yelp,nc,restaurants
+yelp,nc,beauty & spas
+yelp,nc,shopping
+dblp,lp,receive
+dblp,nc,0
+dblp,lp,publish
+dblp,nc,3
+dblp,nc,0
+pubmed,lp,no
+pubmed,lp,is caused by
+yelp,nc,restaurants
+dblp,lp,was written by
+dblp,lp,was published in
+dblp,nc,3
+yelp,nc,event planning & services
+yelp,lp,score
+pubmed,lp,in
+dblp,lp,was written by
+pubmed,nc,cancer
+dblp,lp,was written by
+yelp,lp,located in
+dblp,lp,was received by
+dblp,lp,was received by
+yelp,lp,located in
+yelp,nc,automotive
+yelp,nc,bars
+yelp,lp,rate
+yelp,lp,described with
+dblp,lp,write
+dblp,nc,3
+dblp,nc,3
+yelp,nc,event planning & services
+pubmed,nc,skin disease
+pubmed,lp,in
+dblp,nc,0
+dblp,lp,no
+dblp,nc,2
+yelp,lp,score
+pubmed,lp,in
+yelp,nc,beauty & spas
+yelp,nc,beauty & spas
+yelp,nc,restaurants
+yelp,lp,described with
+dblp,lp,publish
+pubmed,lp,causing
+yelp,lp,located in
+dblp,lp,write
+dblp,lp,publish
+yelp,nc,pizza
+yelp,lp,located in
+yelp,lp,score
+yelp,lp,described with
+yelp,nc,restaurants
+yelp,lp,rate
+dblp,lp,no
+dblp,nc,2
+pubmed,lp,in
+yelp,nc,Italian
+dblp,lp,receive
+dblp,lp,was published in
+yelp,nc,sandwiches
+yelp,nc,restaurants
+dblp,lp,no
+yelp,nc,shopping
+yelp,lp,no
+dblp,lp,write
+yelp,nc,food
+dblp,lp,receive
+dblp,lp,was received by
+yelp,lp,rate
+yelp,nc,restaurants
+dblp,nc,0
+dblp,nc,2
+yelp,lp,described with
+dblp,lp,was written by
+pubmed,lp,contain
+yelp,lp,rate
+yelp,nc,restaurants
+dblp,lp,publish
+yelp,nc,food
+yelp,nc,sandwiches
+yelp,nc,Italian
+yelp,nc,bars
+dblp,lp,write
+yelp,nc,automotive
+dblp,nc,3
+dblp,lp,no
+dblp,lp,receive
+dblp,lp,was received by
+yelp,nc,Italian
+pubmed,lp,contain
+dblp,lp,no
+dblp,lp,was written by
+dblp,lp,was published in
+dblp,nc,2
+dblp,nc,0
+dblp,nc,3
+dblp,lp,write
+dblp,nc,2
+dblp,lp,publish
+dblp,nc,0
+yelp,nc,bars
+pubmed,lp,in
+pubmed,lp,in
+dblp,nc,2
+dblp,lp,was published in
+yelp,lp,score
+pubmed,nc,cardiovascular disease
+yelp,lp,located in
+pubmed,lp,in
+yelp,nc,food
+yelp,lp,indicate
+dblp,nc,0
+yelp,lp,rate
+dblp,nc,1
+yelp,nc,restaurants
+yelp,lp,located in
+dblp,nc,2
+yelp,nc,bars
+yelp,lp,score
+dblp,nc,3
+yelp,lp,indicate
+dblp,lp,was received by
+dblp,nc,0
+dblp,lp,was written by
+pubmed,lp,with
+pubmed,lp,in
+dblp,nc,2
+dblp,lp,write
+yelp,lp,rate
+yelp,nc,restaurants
+yelp,lp,located in
+yelp,lp,is associated with
+pubmed,lp,in
+yelp,nc,food
+yelp,nc,pizza
+dblp,nc,2
+dblp,lp,write
+dblp,lp,was written by
+dblp,lp,was received by
+pubmed,lp,with
+dblp,nc,1
+pubmed,lp,causing
+dblp,lp,was received by
+yelp,lp,located in
+dblp,lp,publish
+yelp,nc,food
+dblp,lp,was written by
+dblp,lp,was published in
+pubmed,lp,is caused by
+yelp,lp,indicate
+dblp,lp,receive
+dblp,lp,was written by
+dblp,lp,publish
+dblp,lp,no
+dblp,nc,3
+pubmed,lp,contain
+dblp,lp,was written by
+dblp,lp,was received by
+pubmed,lp,is caused by
+pubmed,lp,is caused by
+dblp,lp,write
+dblp,nc,1
+dblp,lp,was published in
+dblp,nc,3
+yelp,nc,beauty & spas
+dblp,lp,was published in
+yelp,nc,pizza
+dblp,nc,1
+dblp,lp,was written by
+yelp,nc,restaurants
+yelp,lp,indicate
+yelp,nc,automotive
+yelp,lp,located in
+yelp,nc,restaurants
+dblp,nc,2
+yelp,lp,no
+yelp,nc,food
+yelp,nc,automotive
+yelp,lp,rate
+dblp,lp,receive
+pubmed,nc,cardiovascular disease
+dblp,nc,1
+dblp,lp,no
+dblp,lp,no
+dblp,lp,was published in
+dblp,lp,was written by
+dblp,lp,no
+pubmed,lp,in
+pubmed,lp,no
+yelp,nc,restaurants
+yelp,lp,indicate
+dblp,lp,was written by
+dblp,lp,was published in
+dblp,lp,was published in
+yelp,nc,sandwiches
+yelp,lp,rate
+yelp,nc,restaurants
+yelp,lp,indicate
+yelp,nc,food
+yelp,lp,located in
+yelp,lp,is associated with
+yelp,lp,score
+dblp,nc,0
+yelp,lp,located in
+yelp,nc,Italian
+dblp,lp,publish
+dblp,nc,0
+dblp,nc,1
+dblp,lp,publish
+dblp,lp,receive
+yelp,lp,described with
+yelp,lp,is associated with
+pubmed,lp,in
+yelp,lp,is associated with
+yelp,lp,is associated with
+pubmed,lp,with
+yelp,nc,bars
+yelp,lp,located in
+dblp,lp,was published in
+yelp,nc,restaurants
+dblp,lp,publish
+dblp,lp,was received by
+dblp,nc,0
+pubmed,lp,contain
+pubmed,lp,in
+yelp,nc,beauty & spas
+yelp,lp,located in
+yelp,nc,restaurants
+pubmed,nc,inflammatory disease
+dblp,lp,publish
+yelp,nc,food
+dblp,lp,receive
+yelp,lp,described with
+yelp,nc,restaurants
+dblp,lp,was published in
+dblp,lp,publish
+yelp,lp,described with
+yelp,lp,is associated with
+yelp,nc,bars
+dblp,lp,receive
+yelp,nc,bars
+yelp,lp,no
+dblp,lp,write
+dblp,nc,2
+dblp,lp,no
+dblp,lp,was published in
+yelp,lp,described with
+dblp,lp,no
+yelp,lp,described with
+pubmed,lp,no
+yelp,nc,sandwiches
+pubmed,nc,nervous disorder
+yelp,nc,food
+dblp,nc,0
+yelp,nc,restaurants
+dblp,nc,3
+dblp,lp,publish
+dblp,nc,3
+yelp,lp,described with
+pubmed,lp,in
+pubmed,lp,in
+pubmed,lp,causing
+pubmed,lp,is caused by
+yelp,nc,food
+dblp,nc,1
+dblp,nc,3
+pubmed,lp,in
+dblp,lp,publish
+dblp,nc,1
+yelp,nc,food
+yelp,nc,food
+yelp,nc,Italian
+dblp,nc,1
+yelp,nc,pizza
+yelp,nc,restaurants
+dblp,lp,write
+dblp,lp,receive
+yelp,lp,described with
+pubmed,lp,contain
+yelp,nc,Italian
+pubmed,lp,is caused by
+yelp,lp,is associated with
+yelp,lp,indicate
+dblp,nc,3
+dblp,lp,was received by
+yelp,nc,restaurants
+pubmed,nc,inflammatory disease
+dblp,lp,no
+yelp,nc,event planning & services
+dblp,lp,no
+dblp,lp,receive
+yelp,lp,described with
+dblp,nc,0
+dblp,nc,2
+yelp,nc,food
+yelp,nc,Italian
+yelp,nc,food
+pubmed,lp,with
+pubmed,lp,in
+dblp,lp,no
+yelp,lp,located in
+dblp,nc,0
+pubmed,lp,in
+yelp,nc,breakfast & brunch
+yelp,lp,rate
+pubmed,lp,in
+dblp,nc,2
+yelp,nc,bars
+dblp,lp,was written by
+yelp,lp,is associated with
+dblp,nc,0
+dblp,lp,no
+dblp,lp,no
+pubmed,lp,in
+dblp,lp,was received by
+yelp,nc,pizza
+dblp,nc,0
+pubmed,lp,no
+dblp,nc,2
+yelp,lp,described with
+dblp,lp,was received by
+dblp,nc,0
+yelp,nc,restaurants
+yelp,nc,event planning & services
+pubmed,lp,in
+dblp,nc,3
+dblp,nc,3
+pubmed,lp,contain
+pubmed,lp,contain
+dblp,nc,0
+dblp,nc,2
+dblp,lp,no
+yelp,nc,beauty & spas
+dblp,nc,0
+yelp,lp,no
+yelp,nc,restaurants
+dblp,lp,write
+yelp,lp,located in
+yelp,nc,food
+dblp,nc,2
+dblp,nc,0
+pubmed,nc,cardiovascular disease
+dblp,nc,2
+yelp,lp,located in
+dblp,nc,2
+dblp,nc,3
+dblp,nc,1
+dblp,lp,write
+pubmed,lp,contain
+dblp,lp,was received by
+dblp,lp,write
+yelp,lp,score
+pubmed,lp,in
+yelp,lp,score
+dblp,nc,0
+pubmed,nc,cancer
+yelp,nc,automotive
+dblp,lp,was published in
+yelp,nc,event planning & services
+pubmed,lp,no
+dblp,nc,0
+dblp,nc,3
+dblp,lp,no
+dblp,lp,was published in
+dblp,lp,write
+yelp,nc,food
+dblp,lp,write
+yelp,nc,automotive
+pubmed,lp,no
+dblp,nc,0
+yelp,lp,score
+dblp,lp,write
+dblp,lp,was received by
+pubmed,lp,with
+pubmed,lp,contain
+dblp,lp,was received by
+yelp,nc,pizza
+yelp,nc,shopping
+yelp,nc,restaurants
+dblp,lp,was received by
+yelp,lp,is associated with
+dblp,lp,write
+yelp,lp,located in
+yelp,lp,no
+yelp,lp,located in
+pubmed,lp,in
+yelp,lp,described with
+dblp,nc,0
+dblp,nc,0
+yelp,nc,sandwiches
+pubmed,lp,in
+pubmed,lp,contain
+dblp,lp,receive
+yelp,nc,shopping
+pubmed,lp,with
+yelp,nc,restaurants
+dblp,lp,no
+yelp,lp,rate
+dblp,lp,was published in
+dblp,nc,3
+dblp,nc,1
+yelp,nc,event planning & services
+yelp,lp,located in
+yelp,nc,Italian
+pubmed,lp,with
+dblp,lp,publish
+dblp,nc,2
+yelp,nc,restaurants
+dblp,nc,3
+dblp,lp,no
+yelp,nc,bars
+pubmed,lp,with
+yelp,nc,food
+dblp,nc,0
+dblp,nc,3
+yelp,nc,bars
+dblp,lp,publish
+yelp,lp,indicate
+dblp,nc,0
+dblp,nc,3
+dblp,nc,2
+pubmed,lp,causing
+yelp,nc,restaurants
+yelp,nc,food
+dblp,nc,3
+dblp,nc,2
+dblp,nc,1
+dblp,lp,was received by
+pubmed,nc,cardiovascular disease
+yelp,nc,beauty & spas
+yelp,lp,is associated with
+dblp,nc,2
+yelp,lp,is associated with
+yelp,nc,restaurants
+yelp,nc,shopping
+yelp,lp,score
+yelp,nc,bars
+pubmed,lp,causing
+dblp,nc,0
+dblp,lp,publish
+yelp,lp,score
+pubmed,lp,in
+yelp,nc,pizza
+yelp,nc,beauty & spas
+pubmed,lp,in
+yelp,lp,is associated with
+dblp,lp,receive
+yelp,lp,located in
+dblp,nc,1
+dblp,nc,0
+dblp,nc,2
+dblp,lp,publish
+dblp,nc,0
+dblp,nc,1
+pubmed,lp,no
+dblp,nc,1
+yelp,lp,is associated with
+dblp,lp,publish
+dblp,nc,0
+yelp,nc,breakfast & brunch
+yelp,nc,beauty & spas
+dblp,lp,publish
+yelp,lp,score
+pubmed,lp,in
+dblp,lp,was received by
+yelp,lp,located in
+yelp,nc,restaurants
+dblp,lp,was published in
+pubmed,lp,in
+pubmed,lp,contain
+dblp,nc,2
+dblp,nc,1
+pubmed,lp,with
+dblp,nc,2
+yelp,lp,located in
+dblp,lp,receive
+dblp,nc,2
+dblp,nc,3
+pubmed,lp,in
+dblp,lp,receive
+pubmed,lp,is caused by
+yelp,nc,automotive
+yelp,nc,beauty & spas
+yelp,nc,shopping
+yelp,nc,food
+yelp,lp,rate
+yelp,lp,described with
+dblp,nc,2
+yelp,nc,shopping
+dblp,lp,was published in
+dblp,nc,2
+pubmed,lp,no
+yelp,lp,score
+dblp,lp,was written by
+pubmed,lp,with
+dblp,lp,was written by
+dblp,lp,was published in
+dblp,lp,write
+pubmed,lp,contain
+dblp,nc,1
+dblp,nc,0
+yelp,lp,indicate
+dblp,lp,receive
+dblp,nc,3
+dblp,lp,write
+pubmed,lp,in
+dblp,nc,2
+dblp,nc,0
+dblp,nc,0
+dblp,lp,was written by
+dblp,lp,receive
+pubmed,lp,with
+dblp,lp,was received by
+dblp,lp,no
+yelp,nc,sandwiches
+yelp,nc,shopping
+dblp,nc,1
+yelp,nc,food
+dblp,nc,0
+pubmed,lp,is caused by
+pubmed,lp,with
+dblp,lp,no
+yelp,lp,is associated with
+dblp,lp,was received by
+yelp,nc,food
+yelp,nc,beauty & spas
+dblp,lp,write
+yelp,lp,is associated with
+pubmed,lp,with
+dblp,lp,write
+dblp,nc,0
+yelp,nc,food
+pubmed,lp,with
+dblp,lp,was written by
+pubmed,lp,with
+pubmed,lp,is caused by
+dblp,nc,0
+yelp,lp,rate
+yelp,lp,is associated with
+dblp,lp,no
+yelp,nc,restaurants
+dblp,lp,was written by
+dblp,nc,3
+yelp,nc,sandwiches
+dblp,lp,publish
+yelp,nc,pizza
+yelp,nc,restaurants
+yelp,nc,event planning & services
+dblp,lp,publish
+yelp,nc,automotive
+pubmed,lp,in
+pubmed,lp,in
+yelp,lp,indicate
+dblp,nc,0
+dblp,lp,receive
+yelp,nc,restaurants
+pubmed,lp,causing
+dblp,lp,write
+yelp,nc,sandwiches
+dblp,lp,was received by
+dblp,nc,0
+dblp,nc,0
+dblp,lp,was received by
+dblp,nc,0
+dblp,nc,1
+dblp,lp,publish
+yelp,nc,restaurants
+yelp,nc,food
+pubmed,lp,in
+yelp,nc,pizza
+pubmed,lp,in
+dblp,nc,0
+dblp,nc,0
+dblp,lp,receive
+yelp,nc,food
+yelp,nc,food
+yelp,nc,shopping
+dblp,nc,2
+yelp,lp,rate
+yelp,lp,located in
+dblp,lp,was published in
+dblp,lp,publish
+pubmed,lp,in
+pubmed,lp,causing
+yelp,nc,restaurants
+dblp,nc,0
+yelp,lp,is associated with
+yelp,nc,bars
+dblp,lp,write
+dblp,lp,write
+yelp,lp,is associated with
+yelp,nc,food
+dblp,nc,3
+yelp,lp,located in
+dblp,nc,1
+yelp,nc,pizza
+pubmed,lp,no
+dblp,lp,no
+dblp,nc,2
+yelp,nc,bars
+yelp,lp,indicate
+dblp,nc,2
+yelp,nc,bars
+yelp,nc,restaurants
+yelp,lp,is associated with
+dblp,nc,0
+dblp,lp,publish
+yelp,lp,rate
+yelp,nc,shopping
+pubmed,nc,pycnosis
+yelp,lp,described with
+pubmed,lp,with
+yelp,nc,bars
+yelp,lp,located in
+yelp,nc,event planning & services
+yelp,lp,located in
+dblp,lp,was written by
+yelp,lp,is associated with
+dblp,lp,publish
+dblp,lp,publish
+dblp,nc,2
+dblp,nc,2
+yelp,lp,located in
+yelp,lp,no
+yelp,nc,event planning & services
+yelp,nc,Italian
+dblp,nc,2
+yelp,lp,described with
+dblp,nc,2
+dblp,nc,1
+dblp,lp,was published in
+dblp,nc,0
+yelp,nc,restaurants
+pubmed,lp,with
+pubmed,lp,in
+yelp,nc,restaurants
+dblp,nc,3
+yelp,lp,indicate
+dblp,lp,was published in
+dblp,lp,publish
+yelp,nc,restaurants
+yelp,lp,located in
+dblp,nc,3
+pubmed,lp,with
+dblp,lp,was published in
+dblp,nc,2
+yelp,nc,restaurants
+dblp,lp,publish
+dblp,lp,was written by
+dblp,nc,2
+dblp,lp,receive
+dblp,nc,1
+yelp,lp,described with
+dblp,lp,was received by
+yelp,nc,sandwiches
+dblp,lp,was written by
+yelp,lp,score
+pubmed,lp,is caused by
+dblp,nc,3
+pubmed,lp,contain
+yelp,nc,restaurants
+dblp,lp,receive
+yelp,nc,event planning & services
+dblp,nc,1
+pubmed,lp,in
+pubmed,lp,in
+dblp,nc,3
+dblp,lp,publish
+yelp,lp,located in
+yelp,nc,restaurants
+yelp,lp,indicate
+dblp,nc,1
+yelp,lp,located in
+yelp,nc,bars
+dblp,lp,receive
+dblp,lp,was written by
+dblp,lp,publish
+pubmed,lp,causing
+pubmed,lp,is caused by
+dblp,lp,publish
+dblp,nc,1
+yelp,nc,restaurants
+pubmed,nc,cancer
+yelp,lp,score
+dblp,lp,was written by
+pubmed,lp,contain
+yelp,lp,described with
+pubmed,lp,in
+yelp,nc,bars
+dblp,lp,no
+yelp,lp,score
+yelp,nc,restaurants
+dblp,nc,3
+yelp,nc,pizza
+dblp,nc,0
+dblp,nc,3
+pubmed,lp,with
+yelp,lp,located in
+yelp,nc,shopping
+yelp,lp,score
+dblp,nc,0
+yelp,nc,beauty & spas
+pubmed,lp,in
+yelp,nc,event planning & services
+yelp,nc,automotive
+dblp,lp,was received by
+dblp,nc,0
+dblp,lp,was written by
+yelp,nc,food
+yelp,nc,sandwiches
+dblp,nc,3
+pubmed,nc,cardiovascular disease
+yelp,nc,bars
+pubmed,lp,contain
+pubmed,lp,causing
+yelp,nc,sandwiches
+dblp,lp,publish
+dblp,nc,2
+dblp,nc,2
+yelp,lp,located in
+dblp,nc,1
+pubmed,lp,is caused by
+yelp,nc,sandwiches
+yelp,lp,score
+yelp,nc,restaurants
+yelp,nc,event planning & services
+yelp,nc,restaurants
+yelp,lp,rate
+pubmed,lp,is caused by
+dblp,nc,1
+dblp,nc,2
+yelp,nc,beauty & spas
+dblp,lp,was written by
+pubmed,lp,contain
+yelp,nc,bars
+dblp,lp,was written by
+dblp,lp,was published in
+yelp,lp,described with
+dblp,nc,1
+dblp,nc,0
+pubmed,lp,no
+yelp,lp,no
+yelp,nc,restaurants
+yelp,nc,restaurants
+pubmed,lp,contain
+pubmed,lp,in
+pubmed,lp,contain
+dblp,lp,write
+dblp,lp,receive
+yelp,nc,bars
+yelp,nc,food
+yelp,nc,Italian
+yelp,nc,bars
+dblp,lp,receive
+yelp,nc,restaurants
+pubmed,lp,in
+yelp,lp,located in
+dblp,lp,publish
+pubmed,lp,causing
+yelp,lp,indicate
+pubmed,nc,cardiovascular disease
+yelp,lp,rate
+dblp,lp,write
+dblp,nc,0
+yelp,nc,restaurants
+yelp,lp,described with
+dblp,nc,1
+dblp,lp,no
+yelp,nc,automotive
+dblp,nc,3
+yelp,lp,score
+pubmed,lp,contain
+dblp,lp,publish
+dblp,nc,3
+yelp,nc,Italian
+yelp,lp,rate
+dblp,lp,receive
+dblp,nc,2
+yelp,nc,food
+yelp,nc,restaurants
+yelp,lp,is associated with
+dblp,nc,1
+yelp,nc,beauty & spas
+yelp,nc,restaurants
+yelp,lp,no
+yelp,lp,is associated with
+yelp,lp,score
+yelp,nc,automotive
+dblp,lp,receive
+yelp,nc,bars
+yelp,lp,described with
+yelp,nc,restaurants
+yelp,nc,event planning & services
+yelp,lp,located in
+yelp,nc,restaurants
+dblp,lp,was received by
+dblp,nc,3
+yelp,nc,event planning & services
+dblp,nc,2
+yelp,lp,score
+dblp,nc,2
+dblp,nc,0
+dblp,nc,2
+yelp,lp,is associated with
+yelp,lp,indicate
+dblp,lp,was written by
+yelp,lp,located in
+yelp,nc,restaurants
+dblp,lp,was published in
+dblp,lp,was received by
+yelp,nc,restaurants
+pubmed,lp,in
+dblp,lp,no
+dblp,nc,0
+pubmed,lp,contain
+dblp,lp,was published in
+yelp,lp,described with
+yelp,nc,bars
+yelp,nc,beauty & spas
+pubmed,lp,with
+dblp,lp,no
+dblp,lp,publish
+pubmed,lp,contain
+pubmed,lp,in
+pubmed,lp,in
+dblp,lp,no
+yelp,nc,beauty & spas
+pubmed,lp,contain
+dblp,lp,receive
+dblp,lp,was written by
+yelp,lp,score
+yelp,nc,bars
+pubmed,lp,contain
+dblp,lp,no
+pubmed,lp,contain
+yelp,nc,restaurants
+yelp,nc,event planning & services
+dblp,lp,was written by
+dblp,lp,receive
+dblp,lp,no
+yelp,nc,food
+yelp,nc,restaurants
+dblp,lp,was written by
+dblp,nc,0
+dblp,nc,1
+yelp,lp,rate
+yelp,nc,restaurants
+yelp,nc,restaurants
+yelp,nc,restaurants
+yelp,lp,indicate
+pubmed,lp,in
+dblp,lp,no
+dblp,lp,was published in
+yelp,lp,is associated with
+yelp,nc,food
+pubmed,lp,in
+yelp,nc,restaurants
+dblp,lp,was received by
+yelp,nc,automotive
+dblp,lp,was received by
+yelp,nc,restaurants
+dblp,nc,3
+yelp,lp,no
+yelp,nc,bars
+pubmed,lp,causing
+pubmed,lp,contain
+dblp,lp,write
+dblp,nc,1
+pubmed,nc,cardiovascular disease
+yelp,nc,automotive
+yelp,lp,indicate
+yelp,lp,is associated with
+yelp,nc,automotive
+dblp,nc,2
+dblp,nc,1
+dblp,nc,1
+yelp,lp,indicate
+yelp,nc,beauty & spas
+dblp,lp,write
+dblp,nc,3
+dblp,nc,1
+yelp,nc,restaurants
+pubmed,lp,in
+dblp,nc,0
+yelp,lp,indicate
+yelp,nc,restaurants
+dblp,nc,1
+yelp,nc,pizza
+pubmed,nc,cardiovascular disease
+dblp,lp,was published in
+dblp,lp,no
+yelp,nc,food
+yelp,nc,beauty & spas
+pubmed,lp,in
+dblp,nc,3
+yelp,nc,sandwiches
+pubmed,lp,contain
+dblp,nc,0
+pubmed,lp,causing
+dblp,nc,0
+yelp,lp,described with
+dblp,lp,receive
+yelp,lp,located in
+dblp,nc,0
+dblp,lp,write
+dblp,lp,was published in
+yelp,lp,rate
+dblp,lp,publish
+pubmed,lp,in
+yelp,lp,is associated with
+dblp,lp,was published in
+yelp,nc,shopping
+yelp,nc,restaurants
+pubmed,lp,contain
+yelp,nc,pizza
+yelp,nc,shopping
+dblp,lp,no
+dblp,nc,0
+dblp,lp,receive
+yelp,nc,automotive
+dblp,nc,2
+dblp,lp,was published in
+dblp,nc,2
+yelp,nc,beauty & spas
+dblp,lp,was received by
+pubmed,lp,is caused by
+yelp,nc,beauty & spas
+yelp,lp,no
+yelp,lp,indicate
+yelp,nc,automotive
+yelp,nc,restaurants
+dblp,lp,was written by
+dblp,nc,2
+yelp,lp,described with
+dblp,lp,was published in
+yelp,nc,restaurants
+dblp,nc,3
+dblp,lp,was written by
+pubmed,lp,contain
+yelp,lp,rate
+pubmed,lp,no
+dblp,lp,was written by
+pubmed,lp,contain
+dblp,lp,receive
+dblp,lp,no
+yelp,lp,located in
+pubmed,lp,in
+dblp,nc,3
+yelp,nc,restaurants
+dblp,lp,was received by
+dblp,nc,2
+dblp,lp,was received by
+yelp,nc,beauty & spas
+yelp,nc,Italian
+pubmed,nc,glandular disease
+dblp,lp,write
+dblp,lp,was published in
+dblp,lp,no
+dblp,nc,2
+dblp,nc,0
+dblp,lp,was received by
+yelp,nc,beauty & spas
+dblp,lp,was written by
+yelp,nc,shopping
+dblp,nc,0
+dblp,nc,2
+yelp,nc,food
+dblp,lp,write
+dblp,lp,receive
+yelp,lp,located in
+yelp,nc,event planning & services
+dblp,nc,0
+yelp,nc,restaurants
+dblp,lp,write
+yelp,lp,located in
