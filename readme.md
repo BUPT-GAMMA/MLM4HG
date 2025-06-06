@@ -1,4 +1,4 @@
-# Masked Language Models are Good Heterogeneous Graph Generalizers
+<!-- # Masked Language Models are Good Heterogeneous Graph Generalizers
 This repository is the official implementation of **Masked Language Models are Good Heterogeneous Graph Generalizers**. 
 
 ![img1](./image/framework.png)
@@ -6,7 +6,7 @@ This repository is the official implementation of **Masked Language Models are G
 <div align="center">
 Figure 1: The overall framework of the proposed MLM4HG. We first convert HGs from different domains as well as the corresponding graph tasks into a unified textual format, forming a HG-based text corpus. Then we fine-tune a pretrained LM on the corpus by predicting masked label tokens. Finally, the LM can be adapted to unseen target HGs for generalization.
 </div>
-
+这是注释，这段内容不会被显示 -->
 ## Requirements
 To install requirements, run following command to create environment for reproduction (for cuda 10.2):
 ```
